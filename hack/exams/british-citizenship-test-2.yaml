@@ -1,0 +1,260 @@
+questions:
+  0464ba35c536ce0760caf5296aed9e24c874ea7cb56c6639474357e75cd55f71:
+    choices:
+      r0: South-west Europe
+      r1: South-east Europe
+      r2: North-east America
+      r3: North-west Asia
+    explication: The first farmers arrived in Britain 6,000 years ago. The ancestors
+      of these first farmers probably came from south-east Europe.
+    solution:
+    - r1
+    text: Where did the first farmers come from?
+  2151cbd87bea1129c78498abf96bb45504689d3e48b707c7bd5129301867e91e:
+    choices:
+      r0: 'True'
+      r1: 'False'
+    explication: British overseas territories, such as St Helena and the Falkland
+      Islands are linked to the UK but are not part of it.
+    solution:
+    - r1
+    text: St Helena is a British overseas territory and it is part of the United Kingdom.
+  28e224a662661586e03207dab43c2f50f4bfe00a471ecce739540855d6e2e428:
+    choices:
+      r0: Buddhists
+      r1: Hindus
+      r2: Jews
+      r3: Sikhs
+    explication: Diwali is celebrated by Hindus and Sikhs.
+    solution:
+    - r1
+    - r3
+    text: Which two of the following religious communities celebrate Diwali?
+  2d70399a0797a980a3e6b107ae5902d1ebffb5aac9c38a524f520acbc44428e4:
+    choices:
+      r0: Television
+      r1: Radar
+      r2: Personal computer
+      r3: Radio
+    explication: The television was developed by Scotsman John Logie Baird in the
+      1920s.
+    solution:
+    - r0
+    text: What did the Scottish John Logie Baird develop?
+  3ce5f2d5885922aa75118b885633988297a9650dc7212814d3b1a5e8399aa156:
+    choices:
+      r0: William of Orange
+      r1: King Alfred the Great
+      r2: Henry VIII
+      r3: Robert the Bruce
+    explication: The Anglo-Saxon kingdoms in England united under King Alfred the
+      Great, who defeated the Vikings.
+    solution:
+    - r1
+    text: Under which king did the Anglo-Saxon kingdoms in England unite to defeat
+      the Vikings?
+  42997b33314b4caf18f031a89c256b134622dc88929aa07b0c4d7cd255c30071:
+    choices:
+      r0: 'True'
+      r1: 'False'
+    explication: This statement is true.
+    solution:
+    - r0
+    text: Several Church of England bishops sit in the House of Lords.
+  43007de2039d69ea922429094259509f51548129cf60c495356c9382f14b0f0e:
+    choices:
+      r0: At the House of Commons
+      r1: At the Tower of London
+      r2: At Buckingham Palace
+      r3: At Windsor Castle
+    explication: The Crown Jewels are kept at the Tower of London.
+    solution:
+    - r1
+    text: Where are the Crown Jewels kept?
+  446d45ed8fbf86352570bf74fcb2204cdb374d8df7221b46a4d8add3c3971b77:
+    choices:
+      r0: High Court
+      r1: Justice of the Peace Court
+      r2: "Magistrates\u2019 Court"
+      r3: Crown Court
+    explication: "In England, Wales and Northern Ireland, most minor criminal cases\
+      \ are dealt with in a Magistrates\u2019 Court. In Scotland, minor criminal offences\
+      \ go to a Justice of the Peace Court."
+    solution:
+    - r2
+    text: Which court deals with minor criminal cases in England, Wales and Northern
+      Ireland?
+  49721a0622a1fbe0812d7599a0ac3afbf76136a6c2f5e0eaa6cacd05a80047dd:
+    choices:
+      r0: William Shakespeare
+      r1: John Barbour
+      r2: Geoffrey Chaucer
+      r3: William Caxton
+    explication: William Caxton was the first person in England to print books using
+      a printing press.
+    solution:
+    - r3
+    text: Who was the first person in England to print books using a printing press?
+  5e17ce5b91d43c8c4d09354c48fc0e76fc2ed6fce4b94e63cf6807bba22d0c52:
+    choices:
+      r0: '1514'
+      r1: '1215'
+      r2: '1415'
+      r3: '1314'
+    explication: The Magna Carta was created in 1215.
+    solution:
+    - r1
+    text: When was the Magna Carta created?
+  5fee64b4071b98a0ccb05e9139e32518f39e3646083c8f1d8d33fd4e49feb1a5:
+    choices:
+      r0: 'True'
+      r1: 'False'
+    explication: This statement is true.
+    solution:
+    - r0
+    text: Northern Ireland has its own banknotes, which are valid everywhere in the
+      UK.
+  6638a7bd3dbb30bdf18b1a590e17134b063c2deeabd7f4df6526543e130c7389:
+    choices:
+      r0: Emperor Hadrian
+      r1: Julius Caesar
+      r2: Canute
+      r3: William, the Duke of Normandy
+    explication: Julius Caesar led a Roman invasion of Britain in 55 BC. This was
+      unsuccessful and for nearly 100 years Britain remained separate from the Roman
+      Empire. In AD 43 the Emperor Claudius led the Roman army in a new invasion.
+      This time, there was resistance from some of the British tribes but the Romans
+      were successful in occupying almost all of Britain.
+    solution:
+    - r1
+    text: Who led the first invasion of Britain?
+  68042ba22a7c35e6bbf470447054f559a8d00d35e7928e50d9c9bf27899ebe30:
+    choices:
+      r0: Winston Churchill
+      r1: Clement Attlee
+      r2: Margaret Thatcher
+      r3: Sir Robert Walpole
+    explication: Winston Churchill.
+    solution:
+    - r0
+    text: Who became Prime Minister and was an inspirational leader to the British
+      people during WWII?
+  70615bd273afe7d00e38b03f40d99538a62fe6c69504753745de29900bb558b3:
+    choices:
+      r0: David Hockney
+      r1: Lucian Freud
+      r2: John Petts
+      r3: Henry Moore
+    explication: "David Hockney was an important contributor to the \u2018pop art\u2019\
+      \ movement of the 1960s and continues to be influential today."
+    solution:
+    - r0
+    text: "Who was an important contributor to the \u2018pop art\u2019 movement of\
+      \ the 1960\u2019s?"
+  749fa3de3540b84bf8de28461026d095f347134fdb616d3e3d601c30113e9ce5:
+    choices:
+      r0: Pride and Prejudice
+      r1: "A Midsummer Night\u2019s dream"
+      r2: Sense and Sensibility
+      r3: Great Expectations
+    explication: "William Shakespeare\u2019s most famous plays include A Midsummer\
+      \ Night\u2019s dream."
+    solution:
+    - r1
+    text: Which of the following plays was written by William Shakespeare?
+  7d4df42f8112f489f2343b54c9682ce37c7cc851b4c629aa805bf63eabf147c1:
+    choices:
+      r0: The day when Jesus Christ rose from the dead
+      r1: The day when Jesus Christ was born
+      r2: The day when Jesus Christ died
+      r3: The day when Jesus Christ became 30 years old
+    explication: Good Friday marks the death of Jesus Christ during the Easter.
+    solution:
+    - r2
+    text: What is Good Friday?
+  84a6e1ede445351afdacc5e4e2247a4c6c4f6065e91d30af06a4c5a398c7d89a:
+    choices:
+      r0: The Viking invasion
+      r1: The Anglo-Saxon Conquest
+      r2: The Roman invasion
+      r3: The Norman Conquest
+    explication: The Norman Conquest was the last successful foreign invasion of England
+      in 1066.
+    solution:
+    - r3
+    text: Which was the last successful foreign invasion of England that took place
+      in 1066?
+  99aabe75fe470aab2d9e959b1433f23db462abf362a16265d5a34d0bd42e055c:
+    choices:
+      r0: The Second World War
+      r1: The Crimean War
+      r2: The First World War
+      r3: The Civil War
+    explication: In 1918, women over the age of 30 were given voting rights and the
+      right to stand for Parliament, partly in recognition of the contribution women
+      made to the war effort during the First World War.
+    solution:
+    - r2
+    text: Women over the age of 30 were given the right to vote as a result of their
+      contribution towards the war effort. Which war was that?
+  c2b7e5f55c7679c4ae178d5da29c350b8d2c9ae2d3216cb049819646a495b1d9:
+    choices:
+      r0: '9'
+      r1: '12'
+      r2: '15'
+      r3: '20'
+    explication: In England, Wales and Northern Ireland a jury has 12 members.
+    solution:
+    - r1
+    text: How many members does a jury have in England, Wales and Northern Ireland?
+  d170482da63d71fe5edc6971d8b0487f300b7d65671c8c42c057e6ced8a43f30:
+    choices:
+      r0: 'True'
+      r1: 'False'
+    explication: "True. Only Scotland and Northern Ireland have their patron saint\u2019\
+      s day as an official holiday (although in Scotland not all businesses and offices\
+      \ will close)."
+    solution:
+    - r0
+    text: "St Patrick\u2019s day is a public holiday in Northern Ireland."
+  d964f66a650f708432aebd38ee92222451913cf1efbd537ded485df0fae7de48:
+    choices:
+      r0: Health
+      r1: Defence
+      r2: Education
+      r3: Policing
+    explication: The Home Secretary is responsible for crime, policing and immigration.
+    solution:
+    - r3
+    text: What is the Home Secretary responsible for?
+  d9c403fc95543edd18831b783064dc946ee3fd2b94cdee9c007712c80d518af5:
+    choices:
+      r0: That your dog does not play with other dogs
+      r1: That your dog wears a collar showing the name and address of the owner
+      r2: That your dog wears a high visibility jacket
+      r3: That your dog does not bark
+    explication: All dogs in public places must wear a collar showing the name and
+      address of the owner.
+    solution:
+    - r1
+    text: 'When walking your dog in a public place, you must ensure:'
+  e0ddf387760f4a4eecc77bb6e2a563bb08443f98d22fc3c5099253f632cf925c:
+    choices:
+      r0: Golf
+      r1: Tennis
+      r2: Football
+      r3: Rugby
+    explication: The modern game of golf can be traced back to 15th century Scotland.
+    solution:
+    - r0
+    text: Which sport can be traced back to the 15th century in Scotland?
+  ec24d67120cfe7fb9e5fca79c6a67a4c6def7fa8360ea16f493712e8052080b8:
+    choices:
+      r0: '1925'
+      r1: '1939'
+      r2: '1949'
+      r3: '1927'
+    explication: Ireland became a republic in 1949.
+    solution:
+    - r2
+    text: When did Ireland become a republic?

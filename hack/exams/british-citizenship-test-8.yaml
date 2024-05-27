@@ -1,0 +1,273 @@
+questions:
+  0289b6a2765da0bd5751f6ff327688780c8bfc23f4aa749965ab4f816305b3a1:
+    choices:
+      r0: Economy
+      r1: Crime
+      r2: Education
+      r3: Defence
+    explication: The Home Secretary is responsible for crime, policing and immigration.
+    solution:
+    - r1
+    text: Which of the following is a responsibility of the Home Secretary?
+  124f7f1e7b60b4607b3d3ea41f82b6119a9add9702ce3c22786a7e309f86f111:
+    choices:
+      r0: Films
+      r1: Sport
+      r2: Literature
+      r3: Music
+    explication: "The Man Booker Prize for Fiction is awarded annually for the best\
+      \ fiction novel (literature)\_written by an author from the Commonwealth, Ireland\
+      \ or Zimbabwe. It has been awarded since 1968. Past winners include Ian McEwan,\
+      \ Hilary Mantel and Julian Barnes."
+    solution:
+    - r2
+    text: The Man Booker Prize is awarded in which of the following categories?
+  17da09e9042f8bf7689980215047016bdcfc2a56597efc172cf15817702ffc52:
+    choices:
+      r0: "The owner\u2019s address"
+      r1: "The owner\u2019s name"
+      r2: "The dog\u2019s breed"
+      r3: "The dog\u2019s name"
+    explication: All dogs in public places must wear a collar showing the name and
+      address of the owner.
+    solution:
+    - r0
+    - r1
+    text: "If you are a dog owner, which two things should your dog\u2019s collar\
+      \ have when you go out for a walk?"
+  1d5cd0d9fa416b4bf12468bc83e36fc4fe5622f1af65c6adab19182218122643:
+    choices:
+      r0: Good Friday
+      r1: Easter Sunday
+      r2: Easter Monday
+      r3: Ash Wednesday
+    explication: Easter takes place in March or April. It marks the death of Jesus
+      Christ on Good Friday and his rising from the dead on Easter Sunday.
+    solution:
+    - r0
+    text: What day relates to the death of Jesus Christ?
+  4ff620c7d2283ab3d24b95b6c9e2a5c2808b29000d4f373ff11cf352ce2cf092:
+    choices:
+      r0: '25'
+      r1: '15'
+      r2: '18'
+      r3: '42'
+    explication: There are 15 national parks in England, Wales and Scotland.
+    solution:
+    - r1
+    text: How many national parks are there in England, Wales and Scotland?
+  52d3fdf95eae9b666801c257691557b2421e8519bcf6684477775e891fd49b9d:
+    choices:
+      r0: "It restricted the King\u2019s power"
+      r1: "It increased the King\u2019s power"
+      r2: It restricted the rights of the farmers
+      r3: "It increased women\u2019s power"
+    explication: "The Magna Carta established the idea that even the king was subject\
+      \ to the law. It protected the rights of the nobility and restricted the king\u2019\
+      s power to collect taxes or to make and change laws. In future, the king would\
+      \ need to involve his noblemen in decisions."
+    solution:
+    - r0
+    text: What was achieved with the Magna Carta?
+  52f7bbe9b391d50207b4eaaf62c5bf2fc8d6e48746dd44f04d2ef67abd9b00b8:
+    choices:
+      r0: Coalition
+      r1: Pre-selection
+      r2: Random selection
+      r3: By-election
+    explication: If an MP dies or resigns, there will be a fresh election, called
+      a by-election, in his or her constituency.
+    solution:
+    - r3
+    text: What sort of election takes place when a member of the Parliament (MP) dies
+      or resigns?
+  598785d7260e30b237c14bccba2f8c165684a068a7e57f06693ebda899aa0318:
+    choices:
+      r0: Sir Norman Foster
+      r1: "Lancelot \u2018Capability\u2019 Brown"
+      r2: Sir Edwin Lutyens
+      r3: Isambard Kingdom Brunel
+    explication: Sir Edwin Lutyens was responsible for designing many war memorials
+      throughout the world, including the Cenotaph in Whitehall.
+    solution:
+    - r2
+    text: Who designed the Cenotaph?
+  8393e13bdaf3170bcd2e3924c280aa3736d46b54e5902773964475e222b1dec9:
+    choices:
+      r0: '1918'
+      r1: '1925'
+      r2: '1949'
+      r3: '1914'
+    explication: In 1918, women over the age of 30 were given voting rights and the
+      right to stand for Parliament, partly in recognition of the contribution women
+      made to the war effort during the First World War.
+    solution:
+    - r0
+    text: What year were women given the right to vote?
+  9ade9f2d2052ad1336a605ac54a006da6967a4a697c52250383acc62e0667453:
+    choices:
+      r0: Every 5 years
+      r1: Every 2 years
+      r2: Every 4 years
+      r3: Every 3 years
+    explication: There are 60 members of the Welsh government or members of the Senedd
+      (SMs) and elections are held every four years using a form of proportional representation.
+    solution:
+    - r2
+    text: How often are the members of the Welsh government elected?
+  9b7be78f0b6e1dc3287403466b19dbf69f8bc3255d9b6fb7142f3202bbb5a03f:
+    choices:
+      r0: 1st March
+      r1: 17th March
+      r2: 23rd April
+      r3: 17th April
+    explication: "St  David\u2019s day, patron of Wales, is celebrated on the 1st\
+      \ of March."
+    solution:
+    - r0
+    text: "When is St David\u2019s day celebrated?"
+  9be2edc7c1c6fec6550a393f069ed4d05f900448148592df260def3c6a21f219:
+    choices:
+      r0: 1960s
+      r1: 1970s
+      r2: 1980s
+      r3: 1950s
+    explication: "The decade of the 1960s was a period of significant social change.\
+      \ It was known as the \u2018swinging sixties\u2019. There was growth in British\
+      \ fashion, cinema and popular music. Two well-known pop music groups at the\
+      \ time were The Beatles and The Rolling Stones. It was also a time when social\
+      \ laws were liberalised, for example in relation to divorce and to abortion\
+      \ in England, Wales and Scotland. The position of women in the workplace also\
+      \ improved."
+    solution:
+    - r0
+    text: During which period did the Beatles become popular and social laws were
+      liberalised?
+  9e6abbaae2c1b52a50f0a23c16d0676e2fff56517e2d835090c612c9aafcc80f:
+    choices:
+      r0: 'True'
+      r2: 'False'
+    explication: This statement is true.
+    solution:
+    - r0
+    text: Northern Ireland and Scotland have their own banknotes, which are valid
+      everywhere in the UK.
+  9f1e75929d7eaf999a0a839157e9db7bf969f175a9fc790b1d24bbab4ad86863:
+    choices:
+      r0: St Helena
+      r1: Solomon Islands
+      r2: Mauritius
+      r3: The Falkland Islands
+    explication: There are several British overseas territories, such as St Helena
+      and the Falkland Islands. They are linked to the UK but are not part of it.
+    solution:
+    - r0
+    - r3
+    text: Which two of the following are British overseas territories?
+  a3ff21b720e683d2405f15d88b019a19ce147b8ac5c27812a846b925d78230da:
+    choices:
+      r0: France
+      r1: Russia
+      r2: Poland
+      r3: Austria
+    explication: The Second World War started when Hitler invaded Poland in 1939.
+      Britain and France declared war in order to stop his aggression.
+    solution:
+    - r2
+    text: World War II started as a result of Germany invading which country?
+  b81a221918b31bc06529083dca80b436cb6358804bc40c99f5620dd5f40f6c88:
+    choices:
+      r0: The Shamrock
+      r1: The Rose
+      r2: The Daffodil
+      r3: The Thistle
+    explication: The flower associated with Scotland is the thistle.
+    solution:
+    - r3
+    text: Which flower is associated with Scotland?
+  ba3f240d75c80529ac590016474fc1927b558e4cbb6117620529b4279e701bfc:
+    choices:
+      r0: The MRI (magnetic resonance imaging) scanner
+      r1: The jet engine
+      r2: The IVF (in-vitro fertilisation) therapy
+      r3: The structure of the DNA molecule
+    explication: Francis Crick discovered the structure of the DNA molecule.
+    solution:
+    - r3
+    text: What did Francis Crick discover?
+  c17d74eef7ef8615c47e48f9d07012024abde0d3a4ccd1fbec58dc0dd39ca1b6:
+    choices:
+      r0: County
+      r1: Estate
+      r2: District
+      r3: Constituency
+    explication: A responsibility of the MPs is to represent everyone in their constituency.
+    solution:
+    - r3
+    text: A responsibility of the MPs is to represent everyone in their _______.
+  c6cb6ef675b6465ac30eed4baa33075251420a4888cbc1059c59fd1533b13521:
+    choices:
+      r0: 'True'
+      r2: 'False'
+    explication: This statement is true.
+    solution:
+    - r0
+    text: Female genital mutilation (FGM) or taking a girl or woman abroad for FGM
+      is illegal in the UK and it is a criminal offence.
+  d5908e2b3db5883c988df921ceb2c04233bb654d2ec599784a9b2a1af5ff9ec5:
+    choices:
+      r0: She became Queen of England
+      r1: She was sent to France
+      r2: She escaped to Denmark
+      r3: She was executed
+    explication: Mary was eventually executed, accused of plotting against Elizabeth
+      I.
+    solution:
+    - r3
+    text: "What happened to \u2018Mary, Queen of Scots\u2019 after she spent 20 years\
+      \ in prison?"
+  d6a13492dc84683f822c2842f3e0c730a6a0bf80a34e918a85be11d5876f8dd3:
+    choices:
+      r0: A literature award
+      r1: A music award
+      r2: A contemporary art award
+      r3: A theatre award
+    explication: The Turner Prize was established in 1984 and celebrates contemporary
+      art. The Turner Prize is recognised as one of the most prestigious visual art
+      awards in Europe.
+    solution:
+    - r2
+    text: What is the Turner Prize?
+  de2e4f7eec28d87e8c9e21b41dc8205598a3bb7e5c48f78b31a8ce0671002564:
+    choices:
+      r0: 'Yes'
+      r2: 'No'
+    explication: "\u2018Great Britain\u2019 refers only to England, Scotland and Wales,\
+      \ not to Northern Ireland."
+    solution:
+    - r2
+    text: Is Northern Ireland part of Great Britain?
+  edd66163d8ceda576bbdb6e9dc8ab78fea3e145ce2c45ae86f6c256d9bd86ef6:
+    choices:
+      r0: 'True'
+      r2: 'False'
+    explication: 'False. Anyone can make a complaint about the police by going to
+      a police station and writing to the Chief Constable of the police force involved.
+      Complaints can also be made to an independent body: the Independent Police Complaints
+      Commission in England and Wales, the Police Complaints Commissioner for Scotland
+      or the Police Ombudsman for Northern Ireland.'
+    solution:
+    - r2
+    text: Police complaints can only be made by writing to the Chief Constable of
+      the police force involved.
+  efc11f9ca0afe3704d71c638bd93d323edb074e398d35dd4de8b7bccf57e7789:
+    choices:
+      r0: The Normans
+      r1: The Romans
+      r2: The Spanish Armada
+      r3: The Saxons
+    explication: In 1588 the English defeated the Spanish Armada (a large fleet of
+      ships).
+    solution:
+    - r2
+    text: Who did the English defeat in 1588?

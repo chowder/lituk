@@ -1,0 +1,266 @@
+questions:
+  015095f815895eac9e14da04af7acc299d0d3b98c4ec31eac8c6206c911ab665:
+    choices:
+      r0: Chartists
+      r1: Beefeaters
+      r2: Suffragettes
+      r3: Quakers
+    explication: "In the late 19th and early 20th centuries, an increasing number\
+      \ of women campaigned and demonstrated for greater rights and, in particular,\
+      \ the right to vote. They formed the women\u2019s suffrage movement and became\
+      \ known as the \u2018suffragettes\u2019."
+    solution:
+    - r2
+    text: "What was the name of the activist group who fought for the women\u2018\
+      s right to vote?"
+  0718c2b5d3f48343794e2f01e87efb55f0d8575f3664ff34a9f12596bcb3b442:
+    choices:
+      r0: Glasgow
+      r1: St Andrews
+      r2: Edinburgh
+      r3: Aberdeen
+    explication: The capital city of Scotland is Edinburgh.
+    solution:
+    - r2
+    text: What is the capital city of Scotland?
+  0d6e5e0e2cdf9bd864e7f3f099347b1406e620b1d966f616315b02200a4c1594:
+    choices:
+      r0: The MacLaine of Lochbuie
+      r1: The McDowalls of Garthland
+      r2: The Macpherson of Cluny
+      r3: The MacDonalds of Glencoe
+    explication: The correct answer is the MacDonalds of Glencoe.
+    solution:
+    - r3
+    text: Which Scottish clan was killed for not taking the oath?
+  1b90458d2708a8225f8718369c2049b1cd95d115ffdb6e9d0c6a935c798ce28c:
+    choices:
+      r0: '1415'
+      r1: '1314'
+      r2: '1066'
+      r3: '1200'
+    explication: The Norman Conquest was the last successful foreign invasion of England
+      in 1066.
+    solution:
+    - r2
+    text: When was the last successful foreign invasion of England?
+  1d2b87f875c996352d84709eba45caba62d54314ee74716bd721e7288ce50a6a:
+    choices:
+      r0: The Crimean War
+      r1: The First World War
+      r2: The Civil War
+      r3: The Second World War
+    explication: On 28 June 1914, Archduke Franz Ferdinand of Austria was assassinated.
+      This set off a chain of events leading to the First World War (1914-18).
+    solution:
+    - r1
+    text: "The assassination\_of the Archduke Franz Ferdinand of Austria in 1914 led\
+      \ to which of the following wars?"
+  25c0a883c3af3cc943e0d172201232a2f6a3b9341024b1dcc64998f314a0fce3:
+    choices:
+      r0: Fishing
+      r1: Teaching
+      r2: Aircraft industry
+      r3: Manufacturing
+    explication: During the 18th century, manufacturing jobs became the main source
+      of employment in Britain.
+    solution:
+    - r3
+    text: What was the biggest source of employment during the 18th century?
+  2b8bf629c291f1f250bdd03a73711fc0f3054036044c825445d2aa893b7c7ad3:
+    choices:
+      r0: 'True'
+      r1: 'False'
+    explication: This statement is true.
+    solution:
+    - r0
+    text: In 1833 the Emancipation Act abolished slavery throughout the British Empire.
+  3194c0d639b005f62b7eb858187ebc82e65d15d1350cb395284e0cdd865a6821:
+    choices:
+      r0: Contact the NHS
+      r1: Contact the Department for Work and Pensions (DWP)
+      r2: Contact your local MP
+      r3: Ask you employer to get it for you
+    explication: If you have permission to work in the UK, you will need to telephone
+      the Department for Work and Pensions (DWP) to arrange to get a National Insurance
+      number.
+    solution:
+    - r1
+    text: What do you need to do to apply for a National Insurance Number?
+  41e5e81ef04796977c62725279722f43f014635de6a50d19aa3560a6bdc5748c:
+    choices:
+      r0: The Big Ben
+      r1: Lake District
+      r2: Snowdonia
+      r3: The London Eye
+    explication: "In 2007, television viewers voted Wastwater (Lake District) as Britain\u2019\
+      s favourite view."
+    solution:
+    - r1
+    text: "What UK landmark was voted as Britain\u2019s favourite view in 2007?"
+  53d0f776633710bfbfbd4818606ab71547c3833fdec8f582b850137429db9ac4:
+    choices:
+      r0: The Black Death
+      r1: The Corn Removal
+      r2: The Highland Clearances
+      r3: The Enlightenment
+    explication: "A process began which became known as the \u2018Highland Clearances\u2019\
+      . Many Scottish landlords destroyed individual small farms (known as \u2018\
+      crofts\u2019) to make space for large flocks of sheep and cattle."
+    solution:
+    - r2
+    text: "What is the name of the process by which many Scottish landlords destroyed\
+      \ individual small farms (known as \u2018crofts\u2019) to make space for large\
+      \ flocks of sheep and cattle?"
+  5463eabe5843b2616284270e31dfe53b978ac4a963333d7c00eec379b5434a4a:
+    choices:
+      r0: 'True'
+      r1: 'False'
+    explication: False. The Falkland Islands are a British overseas territory. They
+      are also linked to the UK but are not part of it.
+    solution:
+    - r1
+    text: The Falkland Islands are a British overseas territory and are part of the
+      United Kingdom.
+  755b0ed59a714cbd81a2d33101fb551519177ba2a4fa702d5cd9ddccdc5f68b8:
+    choices:
+      r0: The Ashes
+      r1: The Six Nations Championship
+      r2: The Grand National
+      r3: The Australian Open
+    explication: The most famous cricket competition is the Ashes, which is a series
+      of Test matches played between England and Australia.
+    solution:
+    - r0
+    text: What is the name of the most famous cricket competition played between England
+      and Australia?
+  79e93acf8829b6354b795611cfc90fa2506777e6a2f2df5d8e64c8029a523f3f:
+    choices:
+      r0: The Wimbledon Championship
+      r1: Royal Ascot
+      r2: The Open Championship
+      r3: The Six Nations Championship
+    explication: 'Famous horse-racing events include: Royal Ascot , a five-day race
+      meeting in Berkshire attended by members of the Royal Family; the Grand National
+      at Aintree near Liverpool; and the Scottish Grand National at Ayr.'
+    solution:
+    - r1
+    text: Which of the following is a major horse-racing event in England?
+  ad584040c01012461cee961964b73b17ffdc1a1072d99db6388b5135dc5c736f:
+    choices:
+      r0: The Reformation
+      r1: The Enlightenment
+      r2: The Glorious Revolution
+      r3: The Renaissance
+    explication: The correct answer is the Reformation.
+    solution:
+    - r0
+    text: What is the name of the movement against the authority of the Pope and the
+      ideas of the Catholic Church that took place during the reign of Henry VIII?
+  b0507804024fe8beb82abb242b44fb6cfeab32100e0ac0d3e1cb5b2b996ad380:
+    choices:
+      r0: Defence
+      r1: Social security
+      r2: Health
+      r3: Education
+    explication: Policy and laws governing defence, foreign affairs, immigration,
+      taxation and social security all remain under central UK government control.
+      However, many other public services, such as health and education, are controlled
+      by the devolved administrations.
+    solution:
+    - r2
+    - r3
+    text: Which two issues can the devolved administrations pass laws on?
+  c6c623163f9b93fc9f6c563b803ce75e96ccfd4e81b0c86b2631e5e6d9b7b644:
+    choices:
+      r0: 5th of November
+      r1: 11th of November
+      r2: 31st of October
+      r3: 1st of April
+    explication: Halloween is celebrated on the 31st of October.
+    solution:
+    - r2
+    text: When is Halloween celebrated?
+  c7a017f029c8e5d2745de6c6c81a4e9b248950f6da575459ef142ee9368c1139:
+    choices:
+      r0: Respect and obey the law
+      r1: Vote in all elections
+      r2: Take part in religious activities
+      r3: Look after the area in which you live and the environment
+    explication: As a British citizen you should respect and obey the law and look
+      after the area in which you live and the environment are the correct answers.
+    solution:
+    - r0
+    - r3
+    text: 'As a British citizen, you should:'
+  c7b568fba1fadc0d8742a393c21783c05e572af281f3e8bf92f4f5720c949edf:
+    choices:
+      r0: 'True'
+      r2: 'False'
+    explication: "False. The Bill of Rights, 1689, confirmed the rights of Parliament\
+      \ and the limits of the king\u2019s power."
+    solution:
+    - r2
+    text: The Bill of Rights in 1689 gave women the right to vote.
+  ccfc22d80a386392def9e80679f8750d4d5d4868e1184f56ebbd5f045f1388be:
+    choices:
+      r0: 'True'
+      r1: 'False'
+    explication: This statement is true.
+    solution:
+    - r0
+    text: In 1314 the Scottish, led by Robert the Bruce, defeated the English at the
+      battle of Bannockburn, and Scotland remained unconquered by the English.
+  cf57a090def1e0a4592f2da5dc05ead8a3bdb6c7cbf07f5db1b17d816b995040:
+    choices:
+      r0: '12'
+      r1: '14'
+      r2: '15'
+      r3: '20'
+    explication: In Scotland a jury has 15 members.
+    solution:
+    - r2
+    text: How many members form a jury in Scotland?
+  e60f3fb96f538c6a87ffae768dd975841b47b43a27981f6ab731eb4037bc0a1c:
+    choices:
+      r0: The 40 days before Christmas
+      r1: The 40 days after Easter
+      r2: The 40 days before Easter
+      r3: The 40 days after Christmas
+    explication: The 40 days before Easter are known as Lent.
+    solution:
+    - r2
+    text: What is known as Lent?
+  ec0dfea8e78b5cc57d98f63f3feb0e5dc1e566cf3e75032679ca5eccb06cf6ba:
+    choices:
+      r0: Farmers
+      r1: Peasants
+      r2: Hunter-gatherers
+      r3: Pirates
+    explication: The first people to live in Britain were hunter-gatherers.
+    solution:
+    - r2
+    text: Who were the first people to live in Britain in what we call the Stone Age?
+  ed6402428f4f794050a5d0f598de4e26cccc79ed3e32172c1553ae1d7d681566:
+    choices:
+      r0: Smoking in public places where it is not allowed
+      r1: Disputes about faulty goods or services
+      r2: Disputes about an unfair dismissal in the workplace
+      r3: A dispute between the landlord and the tenants who have not paid the rent
+    explication: Smoking in public places. It is against the law to smoke tobacco
+      products in nearly every enclosed public place in the UK. There are signs displayed
+      to tell you where you cannot smoke.
+    solution:
+    - r0
+    text: Which of the following is an example of criminal offence?
+  f27119af1b0331a201d01ee572aa4a9c70f65f11bbbc9e5c7edfaddc8d28160a:
+    choices:
+      r0: The Battle of Waterloo
+      r1: The Battle of Marston Moor
+      r2: The Battle of Naseby
+      r3: The Battle of Agincourt
+    explication: The Battles of Marston Moor and Naseby.
+    solution:
+    - r1
+    - r2
+    text: Which two of the following are Civil War Battles?

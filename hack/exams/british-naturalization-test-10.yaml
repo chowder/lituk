@@ -1,0 +1,285 @@
+questions:
+  087731d1f7837fd929e98ec670dc19fdcce58e51f3bfa6d6e67f2203fef0366c:
+    choices:
+      r0: Fraserburgh
+      r1: Edinburgh
+      r2: Inverness
+      r3: St Andrews
+    explication: "The Edinburgh Festival takes place in Edinburgh, Scotland, every\
+      \ summer. It is a series of different arts and cultural festivals, with the\
+      \ biggest and most well-known being the Edinburgh Festival Fringe (\u2018the\
+      \ Fringe\u2019)."
+    solution:
+    - r1
+    text: "Where does \u201Cthe Fringe\u201D festival take place?"
+  1d8f99be4f0389d184f9ac2b304f074873aaf6b56ae0dca38601e81ca2175a1a:
+    choices:
+      r0: 31st October
+      r1: 26th December
+      r2: 24th December
+      r3: 01st January
+    explication: Boxing Day is the day after Christmas Day (26th December) and is
+      a public holiday.
+    solution:
+    - r1
+    text: When is Boxing Day celebrated?
+  2a6e7f69fd60ba7e54ec6d57657ffd0e81058c9425b7c4bd0da988217be0c78e:
+    choices:
+      r0: "\xA350"
+      r1: "\xA325"
+      r2: "\xA320"
+      r3: "\xA35"
+    explication: "There are no \xA325 notes in the UK."
+    solution:
+    - r1
+    text: Which of the following is not a British banknote?
+  31518349e3b73046bf42ef558db1f2cdfa1ebcd179d018f895426910965139d3:
+    choices:
+      r0: 'True'
+      r2: 'False'
+    explication: False. Members of the public are not allowed in Youth Courts, and
+      the name or photographs of the accused young person cannot be published in newspapers
+      or used by the media.
+    solution:
+    - r2
+    text: "The names or photographs of\_ young people found guilty of a crime can\
+      \ be published in newspapers or used by the media."
+  3a0e5b6bb4c69e78babc82124bcdbd288bbcacbfd8666bbd8a0cbe1d00d7aef1:
+    choices:
+      r0: The discovery of insulin
+      r1: The discovery of gravity
+      r2: The discovery of penicillin
+      r3: The discovery of steam power
+    explication: "Newton\u2018s most famous published work was Philosophiae Naturalis\
+      \ Principia Mathematica (\u2018Mathematical Principle of Natural Philosophy\u2019\
+      ), which showed how gravity applied to the whole universe."
+    solution:
+    - r1
+    text: What was Isaac Newton known for?
+  528d5abb0fa0e9e27ab6e2a2a0b083e930604b7c81eed34774395bbba3a2c38b:
+    choices:
+      r0: "An \u2018L\u2019 plate"
+      r1: A National Insurance Number
+      r2: A valid driving licence
+      r3: "An \u2018R\u2019 plate"
+    explication: In the UK, you must have a driving licence to drive on public roads.
+    solution:
+    - r2
+    text: What do you need to drive in the UK?
+  6c542fcbc5c1bbfba4311d005c07886a2e4ab6cd7078067ee451bce0e58289fb:
+    choices:
+      r0: The University of Oxford
+      r1: The University of Cambridge
+      r2: The University of Manchester
+      r3: The University of Warwick
+    explication: Rowing is also popular, both as a leisure activity and as a competitive
+      sport. There is a popular yearly race on the Thames between Oxford and Cambridge
+      Universities.
+    solution:
+    - r0
+    - r1
+    text: Which two universities participate in an annual rowing race that takes place
+      on the River Thames?
+  6f6b8a16a650d874ad220b1f00999985431f78d7448a71dabce5d30635048b79:
+    choices:
+      r0: 'Yes'
+      r2: 'No'
+    explication: "The British constitution is not written down in any single document,\
+      \ and therefore it is described as \u2018unwritten\u2019."
+    solution:
+    - r2
+    text: Does Britain have a written constitution?
+  78c3f44e65d50e66a3c963c16198f58548a7f8028e6422f0880b75bf1451b210:
+    choices:
+      r0: Fife
+      r1: Edinburgh
+      r2: Ayr
+      r3: St Andrews
+    explication: The Scottish Grand National takes place at Ayr.
+    solution:
+    - r2
+    text: Where does the Scottish Grand National take place?
+  7b265dfec1c0b455cf940e074406867dc712782b5b1d5548a171f1562850fc69:
+    choices:
+      r0: Constitutional monarchy
+      r2: Constitutional republic
+    explication: The laws passed after the Glorious Revolution marked the beginning
+      of the constitutional monarchy.
+    solution:
+    - r0
+    text: The laws passed after the Glorious Revolution marked the beginning of the
+      ______.
+  897f1c4158f428d16c807b95723b0a72adfa79734aa65d928eee8bd1e40440df:
+    choices:
+      r0: An annual event that gives awards in a range of categories, such as best
+        British group and best British solo artist
+      r1: An annual cultural festival which includes music, dance, art and original
+        performances largely in Welsh
+      r2: An eight-week summer season of daily orchestral classical music concerts
+      r3: Light-hearted plays with music and comedy
+    explication: The Proms is an eight-week summer season of orchestral classical
+      music that takes place in various venues, including the Royal Albert Hall in
+      London.
+    solution:
+    - r2
+    text: "What is \u201Cthe Proms\u201D?"
+  905ace834c4df4a3bbc3d1d98b341a5c28bc5dacc91bbefa68995f487c00cfeb:
+    choices:
+      r0: 'True'
+      r2: 'False'
+    explication: False. There is no established Church in Wales or Northern Ireland.
+    solution:
+    - r2
+    text: Wales has its own established church.
+  92b770e89984655139b2f6b57a05ab4ce42c6ca3c2b4dcadacbd384b6caa9dd3:
+    choices:
+      r0: In recognition of the contribution women made to the war effort during the
+        First World War
+      r1: In recognition of the contribution women made to the war effort during the
+        Second World War
+      r2: In recognition of the contribution women made to the war effort during the
+        Crimean War
+      r3: In recognition of the contribution women made to the war effort during the
+        Civil War
+    explication: In 1918, women over the age of 30 were given voting rights and the
+      right to stand for Parliament, partly in recognition of the contribution women
+      made to the war effort during the First World War.
+    solution:
+    - r0
+    text: Why were women given the right to vote?
+  95bb11e583e60c0bfc4c04c9b989cf84924f75798e807aaec66bff2b0e4a8ab5:
+    choices:
+      r0: Boudicca
+      r1: Emperor Hadrian
+      r2: Emperor Claudius
+      r3: Julius Caesar
+    explication: The Emperor Hadrian built a wall in the north of England to keep
+      out the Picts (ancestors of the Scottish people).
+    solution:
+    - r1
+    text: Who built a wall in the north of England to keep out the Picts (ancestors
+      of the Scottish people)?
+  a1a4935aeb83f650dcf31510cbaee25fe8efb91f4bfe44c30bd0b24f53024f01:
+    choices:
+      r0: The right to liberty and security
+      r1: The right for women to vote
+      r2: Freedom of expression
+      r3: The right to a fair trial
+    explication: "Emmeline Pankhurst she set up the women\u2019s Franchise League\
+      \ in 1889, which fought to get the vote in local elections for married women.\
+      \ In 1903 she helped found the Women\u2019s Social and Political Union (WSPU).\
+      \ This was the first group whose members were called \u2018suffragettes\u2019\
+      . The group used civil disobedience as part of their protest to gain the vote\
+      \ for women. In 1918, women over the age of 30 were given voting rights and\
+      \ the right to stand for Parliament, partly in recognition of the contribution\
+      \ women made to the war effort during the First World War."
+    solution:
+    - r1
+    text: What did Emmeline Pankhurst fight for?
+  ab47044dfd8f4575d9fe63a86a0b9fb01d6409a2b7777877132b45b3899fb9fe:
+    choices:
+      r0: England
+      r1: Wales
+      r2: Scotland
+      r3: Northern Ireland
+    explication: Loch Lomond and the Trossachs National Park is located in the west
+      of Scotland.
+    solution:
+    - r2
+    text: Where is Loch Lomond and the Trossachs National Park located?
+  c44364fdb408ea298ff00fd0cee1a759201ccf6ce8841812f4f11bea2e34d4d3:
+    choices:
+      r0: In 1922
+      r1: In 1918
+      r2: In 1945
+      r3: In 1943
+    explication: The World War I ended in 1918.
+    solution:
+    - r1
+    text: When did the WWI come to an end?
+  d02713f5b1fe5b8d9d5556c163209e45791bffe92ef9dcf7db885e22fa7e91cf:
+    choices:
+      r0: Credit Holidays
+      r1: Branch Holidays
+      r2: Bank Holidays
+      r3: Business Holidays
+    explication: There are public holidays each year called bank holidays, when banks
+      and many other businesses are closed for the day.
+    solution:
+    - r2
+    text: What is the name of the holiday when banks and many other businesses are
+      closed for the day?
+  d2f539cdfaced5ea13dfb94220b9a59fa6d926ad94d2ec3e8be898a8bf1e2584:
+    choices:
+      r0: That every prisoner has a right to a court hearing
+      r1: A salary for members of Parliament (MPs)
+      r2: Financial help for the unemployed, old-age pensions and free school meals
+      r3: Measures to improve the conditions of workers
+    explication: "The Habeas Corpus Act became law in 1679. This was a very important\
+      \ piece of legislation which remains relevant today. Habeas corpus is Latin\
+      \ for \u2018you must present the person in court\u2019. The Act guaranteed that\
+      \ no one could be held prisoner unlawfully. Every prisoner has a right to a\
+      \ court hearing."
+    solution:
+    - r0
+    text: What did the Habeas Corpus Act introduce?
+  d8d68376849e5546a94ada0037b87a7fb293d73d9f9391ac7b993db459d0b323:
+    choices:
+      r0: He was a musician
+      r1: He was a tennis player
+      r2: He was a comedian
+      r3: He was an actor
+    explication: Sir Edward Elgar (1857-1934) was a musician. His best known work
+      is probably the Pomp and Circumstance Marches. March No1 (Land of Hope and Glory)
+      is usually played at the Last Night of the Proms at the Royal Albert Hall.
+    solution:
+    - r0
+    text: What was Edward Elgar famous for?
+  da4b62812be45c04a472353dd3a6c4e5d81a66d2b2e1e4668a79847ddc5d63c1:
+    choices:
+      r0: The Cambridge Tales
+      r1: The Eastbourne Tales
+      r2: The Canterbury Tales
+      r3: The London Tales
+    explication: "Geoffrey Chaucer wrote a series of poems in English about a group\
+      \ of people going to Canterbury on a pilgrimage.\_ This collection of poems\
+      \ is called The Canterbury Tales."
+    solution:
+    - r2
+    text: What stories are associated with Geoffrey Chaucer?
+  e09188eafb7692aebb0758fdd6ac7d0eb01c7c40dc884cc38a0a461f82567ade:
+    choices:
+      r0: France
+      r1: Portugal
+      r2: Spain
+      r3: Italy
+    explication: Elizabeth I became one of the most popular monarchs in English history,
+      particularly after 1588, when the English defeated the Spanish Armada (a large
+      fleet of ships), which had been sent by Spain to conquer England and restore
+      Catholicism.
+    solution:
+    - r2
+    text: During the reign of Elizabeth I, a large fleet of ships was sent to England
+      to conquer the country and to restore Catholicism, where did this fleet come
+      from?
+  fe260bf52711f30ad25891fe4a5dfe8b8cb258e215a5ec52a8ad57c90933c83f:
+    choices:
+      r0: '150'
+      r1: '120'
+      r2: '90'
+      r3: '60'
+    explication: There are 60 members of the Welsh government or members of the Senedd
+      (SMs) and elections are held every four years using a form of proportional representation.
+    solution:
+    - r3
+    text: How many members does the Welsh government have?
+  ff458eceff14351b6e7b3abf9b6586ecf00f1621d17abe8d2595a37f5dcdfb91:
+    choices:
+      r0: St George
+      r1: St Patrick
+      r2: St David
+      r3: St Andrew
+    explication: The patron Saint of England is St George.
+    solution:
+    - r0
+    text: Who is the patron Saint of England?

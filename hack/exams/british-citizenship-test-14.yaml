@@ -1,0 +1,263 @@
+questions:
+  0b0f6e7a1da9e702e1ba4127097d3082235a01bf94828ca4c8c54fbdcdc8be53:
+    choices:
+      r0: Germany
+      r1: Norway
+      r2: Italy
+      r3: France
+    explication: "Britain and France developed the world\u2019s only supersonic commercial\
+      \ airliner, Concorde."
+    solution:
+    - r3
+    text: Which of the following countries helped Britain to develop the Concorde?
+  164db2171a72682cf8b99887a471f0716210e2ddab7e2cc5ab1ec221c0035942:
+    choices:
+      r0: The Boer War
+      r1: The First World War
+      r2: The Second World War
+      r3: The Crimean War
+    explication: The Crimean War was the first war to be extensively covered by the
+      media through news stories and photographs.
+    solution:
+    - r3
+    text: What was the first war to be extensively covered by the media
+  1ed93365de1e1f1676edac50ca38d3912827255a114a78941f30fd5ededdd951:
+    choices:
+      r0: "Hadrian\u2019s Wall"
+      r1: "St Paul\u2019s Cathedral"
+      r2: "Nelson\u2019s Column"
+      r3: Stonehenge
+    explication: Stonehenge stands in what is now the English county of Wiltshire.
+    solution:
+    - r3
+    text: Which of the following monuments is located in Wiltshire?
+  22e01bca2a3352f311694035ad1ca758280581fed7fe1e0c18eeb10ee4c7e1dc:
+    choices:
+      r0: 25th of December
+      r1: 2nd of January
+      r2: 1st of January
+      r3: 31st of December
+    explication: In Scotland, the 31st of December is called Hogmanay.
+    solution:
+    - r3
+    text: When is Hogmanay celebrated?
+  25926d7aa8794c5d8c6d681d77c3e46cefbc0cab27d70fa0fb4206b2664cb433:
+    choices:
+      r0: Admiral Nelson
+      r1: Henry VIII
+      r2: Oliver Cromwell
+      r3: Napoleon
+    explication: Admiral Nelson was in charge of the British fleet at Trafalgar and
+      was killed in the battle.
+    solution:
+    - r0
+    text: Who died at the Battle of Trafalgar?
+  290f2f026b1ecc29553791af729276402db75b371328df22fef5087f3daba9ec:
+    choices:
+      r1: 'Yes'
+      r2: 'No'
+    explication: "Civil servants are accountable to ministers. They are chosen on\
+      \ merit and are politically neutral \u2013 they are not political appointees."
+    solution:
+    - r2
+    text: Are civil servants appointed by the government?
+  460f34bbb868254cb1486c4da1de7c2fd83d23100915603df5688087b9e1ea08:
+    choices:
+      r0: James Cook
+      r1: Admiral Nelson
+      r2: Isaac Newton
+      r3: Sake Dean Mahomet
+    explication: Captain James Cook mapped the coast of Australia and a few colonies
+      were established there.
+    solution:
+    - r0
+    text: Who mapped the coast of Australia?
+  51f196c2edf436fd852bab27957adc8cbc833a1ff7ed2d5ae04482e87e1098a8:
+    choices:
+      r0: Magnetic Resonance Imaging
+      r1: Steam power
+      r2: Radar
+      r3: Hovercraft
+    explication: The Industrial Revolution was the rapid development of industry in
+      Britain in the 18th and 19th centuries. Britain was the first country to industrialise
+      on a large scale. It happened because of the development of machinery and the
+      use of steam power.
+    solution:
+    - r1
+    text: Which invention led to the development of Britain during the Industrial
+      Revolution?
+  5b9ceabb4627150f7c91df697b8bffd699f0e91175789d5c837674594fecbc92:
+    choices:
+      r0: Haggis
+      r1: Pancakes
+      r2: Paella
+      r3: Ulster Fry
+    explication: Ulster fry is the correct answer.
+    solution:
+    - r3
+    text: What is the traditional food of Northern Ireland?
+  5e9a0b6e2d73d8c9a1cb12ed5c4f768e235b21c1f8405352e44e7cdcd4b64cf2:
+    choices:
+      r0: '18'
+      r1: '20'
+      r2: '16'
+      r3: '21'
+    explication: You have to be 18 to go into betting shops or gambling clubs.
+    solution:
+    - r0
+    text: How old do you have to be to go into betting shops or gambling clubs?
+  6b0ccc346fb0438fd202ce4ce3c6f04b9fb844f19faa8a620a0bcf07b254e0ca:
+    choices:
+      r0: Winston Churchill
+      r1: Earl of Wilmington
+      r2: Henry Pelham
+      r3: Sir Robert Walpole
+    explication: The most important minister in Parliament became known as the Prime
+      Minister. The first man to be called this was Sir Robert Walpole, who was Prime
+      Minister from 1721 to 1742.
+    solution:
+    - r3
+    text: Who was the first British Prime Minister?
+  94c9223f7db19725f85f285617c62642e4dcdb78a2b6408813e7ae5a2924d28e:
+    choices:
+      r0: 'True'
+      r2: 'False'
+    explication: This statement is true.
+    solution:
+    - r0
+    text: The system of government in the UK is a parliamentary democracy.
+  aca7b0a2fab007719ca25f48a7e1eafebc28c3923f9e45ee0e8979e337207030:
+    choices:
+      r0: Columba
+      r1: Claudius
+      r2: Hadrian
+      r3: Boudicca
+    explication: One of the tribal leaders who fought against the Romans was Boudicca.
+    solution:
+    - r3
+    text: Who was the tribal leader who fought against the Romans?
+  aed04cb4dc347415e2724b35148ec91c12aaee84249944a8e55f92e4a38ec134:
+    choices:
+      r0: Canvassing
+      r1: Hansard
+      r2: Cabinets
+      r3: Domesday Book
+    explication: Proceedings in Parliament are broadcast on television and published
+      in official reports called Hansard.
+    solution:
+    - r1
+    text: 'Proceedings in Parliament are broadcast on television and published in
+      official reports known as:'
+  b079301a57fc3f1d31d149969b8b4ccde5b5696290a59bbe4d9549fbace7949b:
+    choices:
+      r0: By a system of proportional representation
+      r1: Using a system of ranked voting
+      r2: Using the first past the post system
+      r3: Using a runoff system
+    explication: The Northern Ireland Assembly has 90 elected members, known as MLAs
+      (members of the Legislative Assembly). They are elected with a form of proportional
+      representation.
+    solution:
+    - r0
+    text: How are the members of the Northern Ireland Parliament elected?
+  c5da7eaae4d9d120e8a42f776b72b20e53eab131afaeedf675b64dadf65e578f:
+    choices:
+      r0: '5'
+      r1: '3'
+      r2: '4'
+      r3: '8'
+    explication: 'The UK has hosted the Olympic games on three occasions: 1908, 1948
+      and 2012.'
+    solution:
+    - r1
+    text: How many times has the UK hosted the Olympic games?
+  c68abe13f461b3ec4e0c215301baa634ce6fddb77fee2ab11a86bf304765bbb1:
+    choices:
+      r0: The Scottish Grand National
+      r1: The Wimbledon Championships
+      r2: The Ashes
+      r3: The Six Nations Championship
+    explication: The most famous rugby union competition is the Six Nations Championship
+      between England, Ireland, Scotland, Wales, France and Italy.
+    solution:
+    - r3
+    text: Which of the following is a rugby competition?
+  c75b1218a2ff831e90929fd6598b8aafa7f8e685cc36fe04b5cb32b4ff1500e1:
+    choices:
+      r0: 23rd April
+      r1: 30th November
+      r2: 1st April
+      r3: 17th March
+    explication: "St Patrick\u2019s day, patron of Northern Ireland is celebrated\
+      \ on the 17th of March."
+    solution:
+    - r3
+    text: "When is St Patrick\u2019s day celebrated?"
+  d4c13e2d09a8bed9a8a40f96def2e65e89ca43fdf6855e5302fe3062cf326a84:
+    choices:
+      r0: Clement Attlee
+      r1: Winston Churchill
+      r2: Harold Wilson
+      r3: Harold Macmillan
+    explication: In 1945 the British people elected a Labour government. The new Prime
+      Minister was Clement Attlee.
+    solution:
+    - r0
+    text: Who was elected as British Prime Minister in 1945?
+  e0d3477ad78821d9614f878d4b3f2145834c1ddf1a3ce9fe2e671153858e7f91:
+    choices:
+      r0: The Speaker
+      r1: The Archbishop of Canterbury
+      r2: The Prime Minister
+      r3: The monarch
+    explication: Life peers are appointed by the monarch on the advice of the Prime
+      Minister.
+    solution:
+    - r3
+    text: Who appoints life peers in the House of Lords?
+  f527c7491a67e4df4974ba6349ef26e110028294cec0b2ad9c63d861a39b0739:
+    choices:
+      r0: To link the factories to towns and cities and to the ports
+      r1: To make space for the large fleet of British ships
+      r2: To increase the number of water mills in the UK
+      r3: To increase the amount of water in towns and cities
+    explication: Canals were built to link the factories to towns and cities and to
+      the ports, particularly in the new industrial areas in the middle and north
+      of England.
+    solution:
+    - r0
+    text: Why were canals built during the Industrial Revolution?
+  f5b75a85b476cb5ccbc65cdd1892cc95154cca3bacf57e2af4fc4b979bf42a31:
+    choices:
+      r0: St Patrick
+      r1: St Augustine
+      r2: St Andrew
+      r3: St Columba
+    explication: St Augustine led missionaries from Rome, who spread Christianity
+      in the south. St Augustine became the first Archbishop of Canterbury.
+    solution:
+    - r1
+    text: Who was the first Archbishop of Canterbury?
+  f5d23f48bd4df6a817f3e228485056754f7868912d3c177862d2fe14ffa6a3aa:
+    choices:
+      r0: Physics
+      r1: Economics
+      r2: Science
+      r3: Engineering
+    explication: "During \u2019the Enlightenment\u2019 Adam Smith developed ideas\
+      \ about economics which are still referred to today."
+    solution:
+    - r1
+    text: 'During the Enlightenment, Adam Smith developed ideas about:'
+  f88573af8fa7e15403ec19c31030de55c566d2612bf1d84b950d6d487f31bc88:
+    choices:
+      r0: Tilda Swinton
+      r1: Emily Watson
+      r2: Dame Judi Dench
+      r3: Kate Winslet
+    explication: British actors to have won Oscars include Colin Firth, Sir Antony
+      Hopkins, Dame Judi Dench, Kate Winslet and Tilda Swinton. Emily Watson has not
+      won an Oscar yet.
+    solution:
+    - r1
+    text: Which of the following actresses has not won an Oscar?

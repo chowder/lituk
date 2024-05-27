@@ -1,0 +1,306 @@
+questions:
+  015c6ee0ed02daa41a93e3e99a34c47133fcec5ac5510073a634fde43e888e2b:
+    choices:
+      r0: Gravity
+      r1: Penicillin
+      r2: Insulin
+      r3: Lightbulb
+    explication: "Newton\u2019s most famous published work was Philosophiae Naturalis\
+      \ Principia Mathematica (\u2018Mathematical Principle of Natural Philosophy\u2019\
+      ), which showed how gravity applied to the whole universe. Newton also discovered\
+      \ that white light is made up of the colours of the rainbow."
+    solution:
+    - r0
+    text: What did Isaac Newton discover?
+  05ef7f313b21556baeb154bbae9817c21fa49655d71931111fcbab2eb212b74c:
+    choices:
+      r0: Specially trained magistrates.
+      r1: Social workers.
+      r2: District judges.
+      r3: Members of the public.
+    explication: In England, Wales and Northern Ireland, if an accused person is aged
+      10 to 17, the case is normally heard in a Youth Court in front of up to three
+      specially trained magistrates or a District Judge. The most serious cases will
+      go the Crown Court. The parents or carers of the young person are expected to
+      attend the hearing. Members of the public are not allowed in Youth Courts, and
+      the name or photographs of the accused young person cannot be published in newspapers
+      or used by the media.
+    solution:
+    - r0
+    - r2
+    text: Who can hear cases in Youth Courts in England, Wales and Northern Ireland
+      (two answers)?
+  0f7940dc2b29dc13f9774887568077b98cd86a2a27489b99df95f233e7aaee30:
+    choices:
+      r0: Your local Council.
+      r1: Your local MP.
+      r2: Your local police force.
+      r3: The Prime Minister.
+    explication: If you think someone is trying to persuade you to join an extremist
+      or terrorist cause, you should notify your local police force.
+    solution:
+    - r2
+    text: Who should you contact to report a terrorist activity?
+  2440392fb00bff90194c5553ae9a2c8a88dd4e82cb47bda1a5425786ad108cea:
+    choices:
+      r0: Action movies
+      r1: Animated movies
+      r2: Thrillers
+      r3: Horror movies
+    explication: Britain continues to be particularly strong in special effects and
+      animation. One example is the work of Nick Park, who has won four Oscars for
+      his animated films, including three for films featuring Wallace and Gromit.
+    solution:
+    - r1
+    text: What kind of movies did Academy Award winner Nick Park specialise in?
+  2ba991d5b6750556bf66d8a288f1b91e6808d30a29aef31953acdd65c299315d:
+    choices:
+      r0: 14- and 15-year-olds
+      r1: 15- and 16-year-olds
+      r2: 16- and 17-year-olds
+      r3: 17- and 18-year-olds
+    explication: The National Citizen Service programme gives 16- and 17-year-olds
+      the opportunity to enjoy outdoor activities, develop their skills and take part
+      in a community project.
+    solution:
+    - r2
+    text: Who can apply for the National Citizen Service programme?
+  4c9b757d8fb17e48feb0238fa45e999d22860e6b51cc386134029a02cc0b1443:
+    choices:
+      r0: Scotland
+      r1: England
+      r2: Wales
+      r3: Northern Ireland
+    explication: "The Giant\u2019s Causeway is a land formation of columns made from\
+      \ volcanic lava located on the north-east coast of Northern Ireland. It was\
+      \ formed about 50 million years ago. There are many legends about the Causeway\
+      \ and how it was formed."
+    solution:
+    - r3
+    text: "Where is the Giant\u2019s Causeway located?"
+  5c01785d7ad701f7bfbf4e1945b384c0ec244daeb287cc576a8479530cb5c0d7:
+    choices:
+      r0: 15 years old
+      r1: 16 years old
+      r2: 17 years old
+      r3: 18 years old
+    explication: In the UK, you need to be at least 16 years old to ride a moped,
+      and there are other age requirements and special tests for driving large vehicles.
+    solution:
+    - r1
+    text: How old do you have to be to drive a moped in the UK?
+  68366a779b7739f378e3f8d12bc0bf4bc7ea07f27621fca8c948a1b6e9fe963f:
+    choices:
+      r0: After the First World War.
+      r1: After the Second World War.
+      r2: Before the First World War.
+      r3: Before the Second World War.
+    explication: The UN was set up after the Second World War and aims to prevent
+      war and promote international peace and security.
+    solution:
+    - r1
+    text: When was the United Nations set up?
+  6a2a858f026ebb59807c0c61c6746f12c3208e22fe392692dd95ffdcf28c0593:
+    choices:
+      r0: The construction of the Great Western Railway.
+      r1: The invention of the television.
+      r2: The construction of the Tower of London.
+      r3: The discovery of insulin.
+    explication: Brunel was originally from Portsmouth, England. He was an engineer
+      who built tunnels, bridges, railway lines and ships. He was responsible for
+      constructing the Great Western Railway, which was the first major railway built
+      in Britain. It runs from Paddington Station in London to the south west of England,
+      the West Midlands and Wales.
+    solution:
+    - r0
+    text: 'Isambard Kingdom Brunel was responsible for:'
+  7328406b120ac05ff961a83938cd169b710bbd325a5ee413d0c5ba16c0170b47:
+    choices:
+      r0: Wales
+      r1: Northern Ireland
+      r2: Scotland
+      r3: England
+    explication: "The countries that make up the UK all have flowers which are particularly\
+      \ associated with them and which are sometimes worn on national saints\u2019\
+      \ days. The flowers associated to each country are as follows: England \u2013\
+      \ the rose, Scotland \u2013 the thistle, Wales \u2013 the daffodil and Northern\
+      \ Ireland \u2013 the shamrock."
+    solution:
+    - r3
+    text: Each of the UK countries is associated with a flower symbol, which country
+      is associated with the rose?
+  79e9da98c52938f64114680a762b1d2fbc60ad7bc235a4d9365c86a4ac1962c3:
+    choices:
+      r0: She got married.
+      r1: She was sent to France.
+      r2: She was executed.
+      r3: She was sent to Scotland.
+    explication: Mary was executed, accused of plotting against Elizabeth I.
+    solution:
+    - r2
+    text: "What happened to Mary,\_Queen of Scots, after being sent to prison for\
+      \ 20 years by her cousin Queen Elizabeth I?"
+  8f62a961467304b706aabc62ba3bc97a824e4dc665d1a9561c29ba251a7e03e1:
+    choices:
+      r0: Around 5%
+      r1: Around 10%
+      r2: Around 15%
+      r3: Around 20%
+    explication: Nearly 10% of the population has a parent or grandparent born outside
+      the UK.
+    solution:
+    - r1
+    text: What percentage of the UK population has a parent or grandparent born outside
+      of the UK?
+  98424bf5667dabe6dbac8683b70227fbb7ef8dc0d0c06880f4aaeb5d02114f91:
+    choices:
+      r0: Sophie Christiansen
+      r1: Ellie Simmonds
+      r2: Baroness Tanni Grey-Thompson
+      r3: David Weir
+    explication: Ellie Simmonds is a Paralympian who won gold medals for swimming
+      at the 2008, 2012 and 2016 Paralympic Games and holds a number of world records.
+      She was the youngest member of the British team at the 2008 Games.
+    solution:
+    - r1
+    text: Which Paralympic athlete has won gold medals for swimming at the 2008, 2012
+      and 2016 Paralympic Games?
+  99c256b23cb767a3fc45e119883f73956a9162b1095a434f49a261a7dcd9f3b4:
+    choices:
+      r0: Sir Ian Wilmot
+      r1: Keith Campbell
+      r2: James Watt
+      r3: Francis Crick
+    explication: The structure of the DNA molecule was discovered in 1953 through
+      work at British universities in London and Cambridge. This discovery contributed
+      to many scientific advances, particularly in medicine and fighting crime. Francis
+      Crick (1916-2004), was one of those awarded the Nobel Prize for this discovery.
+    solution:
+    - r3
+    text: Who was the British scientist who co-discovered the structure of the DNA
+      molecule in the 1950s?
+  9ebd9d63746674fcc4df3800503bd1ce3f16f119966831111ec1eacdbd8f66ef:
+    choices:
+      r0: "St Paul\u2019s Cathedral"
+      r1: The Cenotaph
+      r2: Dumfries House
+      r3: The White Tower
+    explication: The White Tower in the Tower of London is an example of a Norman
+      castle keep, built on the orders of William the Conqueror.
+    solution:
+    - r3
+    text: Which historical monument did William the Conqueror build?
+  b3859b205744aa20dc2378450317ee43f0f0f4739a5197e634322f39040f43bd:
+    choices:
+      r0: The Spanish Inquisition
+      r1: The Holy Wars
+      r2: The Reformation
+      r3: The Enlightenment
+    explication: The correct answer is the Reformation.
+    solution:
+    - r2
+    text: Under which name was the movement of opinion against the authority of the
+      Pope during the times of Henry VIII known?
+  bc6b97c5be8bd16e1502ac72341c4bb37fa5c2487dcdab57e829f91096d50e05:
+    choices:
+      r0: "\xA33,000"
+      r1: "\xA35,000"
+      r2: "\xA38,000"
+      r3: "\xA310,000"
+    explication: "The small claims procedure is an informal way of helping people\
+      \ to settle minor disputes without spending a lot of time and money using a\
+      \ lawyer. This procedure is used for claims of less than \xA310,000 in England\
+      \ and Wales and \xA33,000 in Scotland and Northern Ireland."
+    solution:
+    - r0
+    text: What is the maximum amount you can claim through the small claims procedure
+      in Scotland and Northern Ireland?
+  bea3cbcad04715163746cc6edf2b62f5d5b42ba4ddbdfe7253d8d0d10ce9e1e3:
+    choices:
+      r0: William II
+      r1: Charles II
+      r2: Edward II
+      r3: George II
+    explication: In May 1660, Parliament invited Charles II to come back from exile
+      in the Netherlands. He was crowned King Charles II of England, Wales, Scotland
+      and Ireland.
+    solution:
+    - r1
+    text: Who came from the Netherlands to become the British monarch?
+  c0c7ad3bb3d776a5741e40782cf7b566fdfc5f8641bd739b7fa9727b2fe0f445:
+    choices:
+      r0: The Gepids
+      r1: The Jutes
+      r2: The Frisians
+      r3: The Burgundians
+    explication: 'Britain was invaded by tribes from northern Europe: the Jutes, the
+      Angles and the Saxons.'
+    solution:
+    - r1
+    text: Which tribe came to Britain from northern Europe after the Romans left in
+      AD 410?
+  d9e9ab31b558c972e8e4aab7cca81b8e2f090888d31c8ee05154b0e369fb818a:
+    choices:
+      r0: James Callaghan
+      r1: John Major
+      r2: Tony Blair
+      r3: Harold Wilson
+    explication: John Major became Prime Minister after Margaret Thatcher and played
+      an important part in the Northern Ireland peace process.
+    solution:
+    - r1
+    text: Who became Prime Minister after Margaret Thatcher and played an important
+      part in the Northern Ireland peace process?
+  da3cf9b22c91e036942cd8123d634fe7ac4fac5b1ad5ed3ff647b20bd27af1ba:
+    choices:
+      r0: James Callaghan
+      r1: Clement Attlee
+      r2: Gordon Brown
+      r3: Tony Blair
+    explication: In 1997 the Labour Party led by Tony Blair was elected. The Blair
+      government introduced a Scottish Parliament and a Welsh Assembly.
+    solution:
+    - r3
+    text: Who was the leader of the Labour Party who introduced a Scottish Parliament
+      and a Welsh Assembly?
+  ede673ffd246946ffabde00af07c13ae071b472cf82dded34e822a4e0c9686af:
+    choices:
+      r0: Chariots of Fire
+      r1: Wallace and Gromit
+      r2: Four Weddings and a Funeral
+      r3: Women in Love
+    explication: Nick Park, who has won four Oscars for his animated films, including
+      three for films featuring Wallace and Gromit.
+    solution:
+    - r1
+    text: 'Nick Park has won four Oscars for his animated films, including three for
+      films featuring:'
+  ef123321b638b43fbe3657bc11b14f3e646dbedd3bcf7eb47dc4a20bf517fdc1:
+    choices:
+      r0: James Bond
+      r1: Star Wars
+      r2: The Lord of the Rings
+      r3: Superman
+    explication: Some of the most commercially successful films of all time, including
+      the two highest-grossing film franchises (Harry Potter and James Bond), have
+      been produced in the UK.
+    solution:
+    - r0
+    text: What is one of the highest-grossing film franchises produced in the UK?
+  fcf89d195cd32f59ab13b5bed7bbc5723435abf5bb93b6f2ea7be3eb317caa0d:
+    choices:
+      r0: An organization responsible for the protection and promotion of human rights
+        in its member countries.
+      r1: A group of European and North American countries that have agreed to help
+        each other if they come under attack.
+      r2: An association of countries that support each other and work together towards
+        shared goals in democracy and development.
+      r3: An international organization that aims to prevent war and promote international
+        peace and security.
+    explication: The Commonwealth is an association of countries that support each
+      other and work together towards shared goals in democracy and development. Most
+      member states were once part of the British Empire, although a few countries
+      which were not have also joined.
+    solution:
+    - r2
+    text: What is the Commonwealth?

@@ -1,0 +1,269 @@
+questions:
+  0626ac4c0e3c41965504c741d2beb11b96fc296f01935a95255dfabd5dbbcd3b:
+    choices:
+      r0: A downgrade in manufacturing
+      r1: A growth in British fashion and pop music
+      r2: A shortage of water
+      r3: A blockage of social laws
+    explication: "The decade of the 1960s was a period of significant social change.\
+      \ It was known as the \u2018Swinging Sixties\u2019. There was growth in British\
+      \ fashion, cinema and popular music."
+    solution:
+    - r1
+    text: What is the period of the 1960s known for?
+  1efdd68a755f2dc34b20683d334e871b4cea29ceefb04e08d513964123506bbc:
+    choices:
+      r0: Women in Britain today make up about half of the workforce.
+      r2: Women in Britain today make up about one quarter of the workforce.
+    explication: Women in Britain today make up about half of the workforce.
+    solution:
+    - r0
+    text: 'Which of the following statements is true:'
+  24bde309d7867dce6802b37155180f4afdd82363c4da8b1ea5329bbd182bc46e:
+    choices:
+      r0: The names of Iron Age kings
+      r1: The names of Iron Age Gods
+      r2: The names of trees
+      r3: The names of animals
+    explication: The people of the Iron Age made the first coins to be minted in Britain,
+      some inscribed with the names of Iron Age kings.
+    solution:
+    - r0
+    text: What was inscribed in the first coins to be minted in Britain during the
+      Iron Age?
+  34b63c68b2f501204edbd5c9dfea2450ce340cbbd14548ac2c4b9d69a2819f3a:
+    choices:
+      r0: "April Fool\u2018s Day"
+      r1: Boxing Day
+      r2: Halloween
+      r3: "Valentine\u2018s Day"
+    explication: "April Fool\u2018s Day, 1 April, is a day when people play jokes\
+      \ on each other until midday. The television and newspapers often have stories\
+      \ that are April Fool jokes."
+    solution:
+    - r0
+    text: What is the day when jokes are published in newspapers and telecast on TV?
+  42c14c3023c7b935187d23e3b632e9833fb89ee3e860e0f90cf4b06b0a94fa17:
+    choices:
+      r0: 'True'
+      r2: 'False'
+    explication: "False.Towns, cities and rural areas in the UK are governed by democratically\
+      \ elected councils, often called \u2018local authorities\u2018."
+    solution:
+    - r2
+    text: Towns, cities and rural areas in the UK are governed by government appointed
+      officials.
+  5cd960822aa071ecc71712629c45e7a5efeaf4e4a705ff0bdc691c06f4a035ce:
+    choices:
+      r0: Sir Tim Berners-Lee
+      r1: Sir Peter Mansfield
+      r2: Sir Ian Wilmot
+      r3: Sir Robert Edwards
+    explication: The inventor of the World Wide Web was Sir Tim Berners-Lee.
+    solution:
+    - r0
+    text: Who invented the World Wide Web?
+  61add95d07c823732c8b061524d76f5448f60d352de7a0db55f6db1f3199ad27:
+    choices:
+      r0: Shetland
+      r1: Isle of Wight
+      r2: Isle of Man
+      r3: Anglesey
+    explication: "The Channel Islands and the Isle of Man are closely linked with\
+      \ the UK but are not part of it. They have their own governments and are called\
+      \ \u2018Crown dependencies\u2018."
+    solution:
+    - r2
+    text: Which of the following is a Crown Dependency but not part of the UK?
+  78831d11b1170f71c96a00723fb2272fa79cf584b56b7c766e7eacd1839a230a:
+    choices:
+      r0: 'True'
+      r1: 'False'
+    explication: False. Anyone who is on the electoral register and is aged 18 to
+      70 can serve on a jury.
+    solution:
+    - r1
+    text: "You have to be at least 21 years old to serve on a\_jury."
+  7ef44a8c89e52a83ee9ffa8d5684087353607026fcfc15eb471b31acd00f64d3:
+    choices:
+      r0: 'Yes'
+      r2: 'No'
+    explication: The BBC is the largest broadcaster in the world. It is the only wholly
+      state-funded media organisation that is independent of government.
+    solution:
+    - r2
+    text: Is the BBC controlled by the government?
+  82a8c483037119617eb606c402d5a89676c4e8cdec2cbc5449cc7354a0b933eb:
+    choices:
+      r0: They are chosen on merit and form part of the Liberal Democrats party
+      r1: They are chosen randomly and form part of the Conservative party
+      r2: They are chosen randomly and are politically neutral
+      r3: They are chosen on merit and are politically neutral
+    explication: "Civil servants are chosen on merit and are politically neutral \u2013\
+      \ they are not political appointees."
+    solution:
+    - r3
+    text: How are civil servants appointed and what political party do they belong
+      to?
+  8adcd2d7dc1fe6667c87b8451eca73ddb83ef400c1dc2e95137f1ee5802ba6b4:
+    choices:
+      r0: Glasgow
+      r1: Cardiff
+      r2: London
+      r3: Belfast
+    explication: The Tate Britain and Tate Modern are in London.
+    solution:
+    - r2
+    text: Where is the Tate Art Gallery located?
+  a5766c46e77720cddc86c8d0e0394d647581aae1b57f45c58b2349c9d7cc3abe:
+    choices:
+      r0: The Football World Cup
+      r1: The Rugby World Cup
+      r2: The Olympic games
+      r3: The Eurocup Basketball
+    explication: 'The UK has hosted the Olympic games on three occasions: 1908, 1948
+      and 2012.'
+    solution:
+    - r2
+    text: Which of the following major sports event took place in the UK in 2012?
+  aba6ae637ee1bdb93617f19a7a73253be77864db94f1425f11e480ea7726ee3b:
+    choices:
+      r0: "The Queen\u2019s Club Championships"
+      r1: Wimbledon
+      r2: Roland Garros
+      r3: The Aegon Championships
+    explication: The most famous tournament hosted in Britain is The Wimbledon Championships,
+      which takes place each year at the All England Lawn Tennis and Croquet Club.
+    solution:
+    - r1
+    text: What is the most famous tennis tournament played in the UK?
+  b5122f038fd2affdae88231367dd1ab903bb56d670f485bda01884a273dc2f33:
+    choices:
+      r0: Mo Farah
+      r1: Admiral Nelson
+      r2: Winston Churchill
+      r3: Clement Attlee
+    explication: In 2002 Winston Churchill was voted the greatest Briton of all time
+      by the public.
+    solution:
+    - r2
+    text: Who was voted the greatest Briton of all time in 2002?
+  ba80d1992313397a1810dc521816cb5e98ce609c1055ad335e94ba6560b83532:
+    choices:
+      r0: The Flag of the Commonwealth
+      r1: The Flag of the United Kingdom
+      r2: The shield used by British Knights
+      r3: A trade union to protect workers rights
+    explication: The Union Flag, the Flag of the United Kingdom is also known as the
+      Union Jack.
+    solution:
+    - r1
+    text: What is the Union Jack?
+  bf8f7ba7e60c6a86ad5384268224ce45b8009f589d9862022294686b2f58e2bf:
+    choices:
+      r0: Authorised version
+      r1: Reformed version
+      r2: Approved version
+      r3: Unique version
+    explication: "One achievement of King James\u2018 reign was a new translation\
+      \ of the Bible into English. This translation is known as the \u2018King James\
+      \ Version\u2018 or the \u2018Authorised Version\u2018."
+    solution:
+    - r0
+    text: 'The version of the Bible created by King James I is known as:'
+  c1721c29667b8dc11389c3283f3ce8ee3cd4474c8de0afdea762ead7baf8aab5:
+    choices:
+      r0: Pakistan
+      r1: Germany
+      r2: India
+      r3: France
+    explication: Between 1680 and 1720 many refugees called Huguenots came from France.
+    solution:
+    - r3
+    text: Between 1680 and 1720 many refugees called Huguenots came to England, which
+      country did they come from?
+  c5fc6c2c35a7f3ba265683ef40670bc3c2bb26d42ec370455d5bdd27bd13b1e8:
+    choices:
+      r0: When the German air force bombed London and other British cities at night-time
+      r1: The evacuation of Allied soldiers from France during World War II
+      r2: When new social classes appeared after the Black Death
+      r3: The period when many refugees called Huguenots came from France
+    explication: During WWII as France fell, the British decided to evacuate British
+      and French soldiers from France in a huge naval operation. Many civilian volunteers
+      in small pleasure and fishing boats from Britain helped the Navy to rescue more
+      than 300,000 men from the beaches around Dunkirk.
+    solution:
+    - r1
+    text: "What is known as the \u201CDunkirk spirit\u201D?"
+  d20b9143b1d381e5d569bceb28344d8e496c19d9695f305cfdb0d216e8942e0f:
+    choices:
+      r0: 'True'
+      r2: 'False'
+    explication: "False. You can contact MPs by letter or telephone at their constituency\
+      \ office, or at their office in the House of Commons. In addition, many MPs,\
+      \ SMs and MSPs hold regular local \u2018surgeries\u2018, where constituents\
+      \ can go in person to talk about issues that are of concern to them."
+    solution:
+    - r2
+    text: MPs can only be contacted at their office in the House of Commons.
+  ddebd889571a81e640d2104cc00bd10ed2c7cc0f0fa1043f8bc2c91df5e0d214:
+    choices:
+      r0: To rule without the Parliament
+      r1: To rule with the approval of the Parliament
+      r2: To raise money for the Parliament
+      r3: To restore Catholicism in Britain
+    explication: "Charles I believed in the \u2019Divine Right of Kings\u2019: the\
+      \ idea that the king was directly appointed by God to rule. He thought that\
+      \ the king should be able to act without having to seek approval from Parliament\
+      \ and he tried to rule without the Parliament."
+    solution:
+    - r0
+    text: "Charles I believed in the \u2019Divine Right of Kings\u2019 so he tried:"
+  e2e1936de2a932e03baa88e0c06a16de50c2649673217f40535ceb9ea071be57:
+    choices:
+      r0: '12'
+      r1: '60'
+      r2: '90'
+      r3: '108'
+    explication: The Northern Ireland Assembly has 90 elected members, known as MLAs
+      (members of the Legislative Assembly).
+    solution:
+    - r2
+    text: How many members does the Northern Ireland Assembly have?
+  eafc5fcd7931f8f5dd0f2e7a29889eaa5cd52c581b53d844d5a6c39afc48278f:
+    choices:
+      r0: Oliver Cromwell
+      r1: The Duke of Wellington
+      r2: Robert the Bruce
+      r3: Admiral Nelson
+    explication: Admiral Nelson was in charge of the British fleet at Trafalgar and
+      was killed in the battle.
+    solution:
+    - r3
+    text: Who was in charge of the British fleet at the Battle of Trafalgar?
+  f4cbcf1dfc9d29611b19fa7a2777dae105fefab5836c2eb2bf5428ee7c5e07fa:
+    choices:
+      r0: King Charles I
+      r1: King James I
+      r2: Admiral Nelson
+      r3: Robert the Bruce
+    explication: In 1314 the Scottish, led by Robert the Bruce, defeated the English
+      at the Battle of Bannockburn, and Scotland remained unconquered by the English.
+    solution:
+    - r3
+    text: Which Scottish king defeated the English at the Battle of Bannockburn?
+  ff5aef20d1efb4c3d8d3e929864a64e5fa5889f2a33ebec7ee14b7afc6965cc4:
+    choices:
+      r0: Respect the rights of others, including their right to their own opinions
+      r1: Buy a house in the UK
+      r2: Look after yourself and your family
+      r3: Marry a British citizen
+    explication: 'If you wish to be a permanent resident or citizen of the UK, you
+      should: respect the rights of others, including their right to their own opinions,
+      look after yourself and your family, respect and obey the law, treat others
+      with fairness and look after the area in which you live and the environment.'
+    solution:
+    - r0
+    - r2
+    text: 'If you wish to be a permanent resident or citizen of the UK, you should
+      (choose TWO answers):'

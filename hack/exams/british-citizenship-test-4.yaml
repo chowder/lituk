@@ -1,0 +1,259 @@
+questions:
+  10dfd30b3d75cbe12788afca43dafd143527d156da85400655edb9639f6c58fc:
+    choices:
+      r0: The House of Lords
+      r1: House of Members
+      r2: House of Commons
+      r3: House of Fraser
+    explication: The UK Parliament is formed of the House of Commons and the House
+      of Lords.
+    solution:
+    - r0
+    - r2
+    text: Which two houses form the UK Parliament?
+  14fa20a13e8ff4e2d9d19ec629e75550470bfd1f354b125fad7f4d73addd5b0d:
+    choices:
+      r0: Every 3 years
+      r1: Every 4 years
+      r2: Every 5 years
+      r3: Every 10 years
+    explication: MPs are elected at a General Election, which is held at least every
+      five years.
+    solution:
+    - r2
+    text: How often are general elections held in the UK?
+  25e420b734800490a72bb9ec8be59fb5e4d67fce585536158b45df7c8a9c0df0:
+    choices:
+      r0: John Logie Baird
+      r1: Sir Frank Whittle
+      r2: Sir Christopher Cockrell
+      r3: Sir Robert Watson-Watt
+    explication: Sir Robert Watson-Watt developed the radar.
+    solution:
+    - r3
+    text: Who developed the radar?
+  2b799c16c955614d5d05148a0d157acd58f744afe4b4362117e3d53d4fd46359:
+    choices:
+      r0: Civil offences
+      r1: Criminal offences
+    explication: Racial crime and smoking in public places are examples of criminal
+      offences.
+    solution:
+    - r1
+    text: 'Racial crime and smoking in public places are examples of:'
+  340b4071eb9ae2c7aa9c175ece8d4082d2e0329e9158c3dc5cc6e613f0650ef5:
+    choices:
+      r0: Television
+      r1: Internet
+      r2: Newspapers
+      r3: Radio
+    explication: By law, radio and television coverage of the political parties must
+      be balanced and so equal time has to be given to rival viewpoints.
+    solution:
+    - r0
+    - r3
+    text: By law, which TWO types of media have to give a balanced coverage of all
+      political parties and equal time to rival viewpoints before an election?
+  365430b8d6dfbdebf45da380f5c7ecbe43ca0e03ffb55da8435fa88e9b22df4c:
+    choices:
+      r0: A war
+      r1: A flood
+      r2: A fire
+      r3: An earthquake
+    explication: "During Charles II\u2019s reign, a great fire destroyed much of the\
+      \ city, including many churches and St Paul\u2019s Cathedral."
+    solution:
+    - r2
+    text: During the reign of Charles II parts of London were destroyed, what was
+      the cause of this destruction?
+  3f7b34858e989f5a50c60474eaa0f445f9cf00374c55c6b13619320ea428a09b:
+    choices:
+      r0: 24th of December
+      r1: 25th of December
+      r2: 26th of December
+      r3: 27th of December
+    explication: Christmas Day is celebrated on the 25th of December.
+    solution:
+    - r1
+    text: When is Christmas Day?
+  469c135acbf5a2aafe91098804b81fd9706a7993113d95526715e45c1c708407:
+    choices:
+      r0: The Prime Minister
+      r1: The Archbishop of Canterbury
+      r2: The Pope
+      r3: The monarch
+    explication: The monarch is the head of the Church of England.
+    solution:
+    - r3
+    text: Who is the head of the Church of England?
+  5df5385918c0e6f2f9aef71aab3ad42369a03a7c9aa940f0e953c522f2138112:
+    choices:
+      r0: 'True'
+      r2: 'False'
+    explication: This statement is true.
+    solution:
+    - r0
+    text: Scotland has its own banknotes, which are valid everywhere in the UK.
+  5f45725b735e3b8c563bbcde701945371ed1e768d87e3953e64e2abd1034ce6c:
+    choices:
+      r0: Cleopatra
+      r1: Claudia
+      r2: Boudicca
+      r3: St Augustine
+    explication: One of the tribal leaders who fought against the Romans was Boudicca,
+      the queen of the Iceni in what is now eastern England.
+    solution:
+    - r2
+    text: Who was the tribal leader who fought against the Romans?
+  61216f0cd757cec640b76313076bc8958d3f2dc202f1aacf2f421a302e3444ed:
+    choices:
+      r0: Daffodil
+      r1: Rose
+      r2: Shamrock
+      r3: Thistle
+    explication: The flower associated with Wales is the daffodil.
+    solution:
+    - r0
+    text: Which flower is associated with Wales?
+  7851cb0bcc536d172f3d7da00e571ca6c07fedef36de634d87b829eb35e1216d:
+    choices:
+      r0: Poems
+      r1: Novels
+      r2: Jokes
+      r3: Fables
+    explication: Geoffrey Chaucer wrote a series of poems in English about a group
+      of people going to Canterbury on a pilgrimage. This collection of poems is called
+      The Canterbury Tales.
+    solution:
+    - r0
+    text: What type of literature are the Canterbury Tales?
+  b0d6b107da8e7ab7964618de250f757ff4eb1311f2483115b28246babf72ecb6:
+    choices:
+      r0: A superhero
+      r1: A tramp
+      r2: A scientific genius
+      r3: A bandit
+    explication: Sir Charles (Charlie) Chaplin became famous in silent movies for
+      his tramp character and was one of many British actors to make a career in Hollywood.
+    solution:
+    - r1
+    text: What type of character was played by Charlie Chaplin?
+  b4c6a760eb3e7fadec698773c569b036a39672d0c5a6ba1aff5cf0328fb56dba:
+    choices:
+      r0: The Battle of Trafalgar
+      r1: The Battle of Waterloo
+      r2: The Battle of Hastings
+      r3: Battle of Agincourt
+    explication: In 1815, the French Wars ended with the defeat of the Emperor Napoleon
+      by the Duke of Wellington at the Battle of Waterloo.
+    solution:
+    - r1
+    text: What was the last battle between Great Britain and France?
+  b95d4c065d9028eb48a170304111e20eb270bcee12eb0aac1066312b7a2f1599:
+    choices:
+      r0: Roundheads
+      r1: Suffragettes
+      r2: Quakers
+      r3: Cavaliers
+    explication: During the civil war between the king and Parliament the country
+      split into those who supported the king (the Cavaliers) and those who supported
+      Parliament (the Roundheads).
+    solution:
+    - r3
+    text: Who supported King Charles I during the Civil War?
+  c4e7ffb0c88409e806646c5555031658fbaaea421bdea7339381d29611962307:
+    choices:
+      r0: Rugby
+      r1: Golf
+      r2: Horse Racing
+      r3: Tennis
+    explication: The Grand National is a horse racing event.
+    solution:
+    - r2
+    text: What sort of event is the Grand National?
+  d2462596704d858409589cffde0c6aa4fc3fab36bfc95d31b2f5991470b77c68:
+    choices:
+      r0: Shelter
+      r1: Age UK
+      r2: Crisis
+      r3: The National Trust
+    explication: The National Trust is a charity that works to preserve important
+      buildings, coastline and countryside in the UK.
+    solution:
+    - r3
+    text: What charity works to preserve important buildings, coastline and countryside
+      in the UK?
+  d5575b7efe3bfc48ef7e8b6e98e44de095d1f14aa4b7faa6f069077b889aa1c7:
+    choices:
+      r0: Isaac Newton
+      r1: Winston Churchill
+      r2: Alexander Fleming
+      r3: Mo Farat
+    explication: Winston Churchill remains a much-admired figure to this day, and
+      in 2002 was voted the greatest Briton of all time by the public.
+    solution:
+    - r1
+    text: Who was voted the greatest Briton of all time in 2002?
+  dd360ad6dfcf8be86f2526d7565214ac62807c3a6a51799f3b3a2731b2477f47:
+    choices:
+      r0: Houses of the Parliament
+      r1: Stonehenge
+      r2: Tower of London
+      r3: Whitehall
+    explication: Anne Boleyn was unpopular in the country and was accused of taking
+      lovers. She was executed at the Tower of London.
+    solution:
+    - r2
+    text: Where was Anne Boleyn, the wife of Henry VIII, executed?
+  e1e5fde3f297cf354719a22652f0cc207301ae929b58ac9d471dcd802ea439b6:
+    choices:
+      r0: 18 Oxford Street
+      r1: Buckingham Palace
+      r2: Windsor Castle
+      r3: 10 Downing Street
+    explication: The official home of the Prime Minister is 10 Downing Street.
+    solution:
+    - r3
+    text: Where is the official home of the Prime Minister?
+  e5b72e1f5030fd42ddeeee59b2563f827a70401e63dd006e14948bc76c0ec03c:
+    choices:
+      r0: '1918'
+      r1: '1928'
+      r2: '1938'
+      r3: '1948'
+    explication: In 1928, women were given the right to vote at the age of 21, the
+      same as men.
+    solution:
+    - r1
+    text: When did women get the right to vote at the same age as men?
+  ead262fc9cb0464e95f36f0ffb0e7d46d66bf131f84ded0a626ac4304b0f61b2:
+    choices:
+      r0: 'True'
+      r1: 'False'
+    explication: This statement is false. Anyone aged 18 or over can stand for election
+      as an MP but they are unlikely to win unless they have been nominated to represent
+      one of the major political parties. These are the Conservative Party, the Labour
+      Party, the Liberal Democrats, or one of the parties representing Scottish, Welsh
+      or Northern Irish interests.
+    solution:
+    - r1
+    text: You have to be at least 21 years old to stand as MP.
+  f5a1df92801b16726a0bf5bfdc7f707fc60664e58352579d395073da253b2b22:
+    choices:
+      r0: 'True'
+      r1: 'False'
+    explication: This statement is true.
+    solution:
+    - r0
+    text: Great Britain refers only to England, Wales and Scotland.
+  ffed1c545783e0bce43bf21e3c26a068b8fc35f7774ef6b4780777784d5d6e86:
+    choices:
+      r0: The Battle of Waterloo
+      r1: The Battle of Trafalgar
+      r2: The Battle of Hastings
+      r3: The Battle of Britain
+    explication: The Battle of Hastings is commemorated in a great piece of embroidery,
+      known as the Bayeux tapestry.
+    solution:
+    - r2
+    text: What battle is commemorated in the Bayeux Tapestry?

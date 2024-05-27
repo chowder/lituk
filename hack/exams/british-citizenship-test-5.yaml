@@ -1,0 +1,265 @@
+questions:
+  06cfd847a5eca32117377279d31a2f3cc8ea1b8a4408cd4bd5f90b4982f74cc0:
+    choices:
+      r0: Wales
+      r1: Australia
+      r2: Ireland
+      r3: Scotland
+    explication: The modern game of golf can be traced back to 15th century Scotland.
+    solution:
+    - r3
+    text: Where does golf come from?
+  09dc5f7a24f89aecd90c4c1bb616280b1976c266cbfd0075e3c0ae51b0f54736:
+    choices:
+      r0: Netherlands
+      r1: Falkland Islands
+      r2: Gibraltar
+      r3: South Africa
+    explication: The Boer War of 1899 to 1902 took place in South Africa with settlers
+      from the Netherlands called the Boers.
+    solution:
+    - r3
+    text: In which country of the British Empire did the Boer War (1899-1902) take
+      place?
+  0ca8d606d49d6a180855e2ebcd0576e04d4576c637ff082ede8132c3eff0024a:
+    choices:
+      r0: '1942'
+      r1: '1941'
+      r2: '1940'
+      r3: '1939'
+    explication: Germany invaded Poland in 1939.
+    solution:
+    - r3
+    text: When did Germany invade Poland?
+  101ffe65f6f0628834d7c3f7130fe047a15dc70f667bcea1d982764b18d6a8d1:
+    choices:
+      r0: The Battle of Hastings
+      r1: The Battle of Waterloo
+      r2: The Battle of Trafalgar
+      r3: The Battle of Bannockburn
+    explication: Admiral Nelson was in charge of the British fleet at the Battle of
+      Trafalgar and was killed in the battle.
+    solution:
+    - r2
+    text: In which battle did Admiral Nelson die?
+  1080a766792943c173f4d39c196ebf2efd4217e2480401829653eac3541591c2:
+    choices:
+      r0: "Mary Stuart (\u2018Mary, Queen of Scots\u2019) was a Protestant"
+      r1: "Mary Stuart (\u2018Mary, Queen of Scots\u2019) was a Catholic"
+    explication: "Mary Stuart (\u2018Mary, Queen of Scots\u2019) was a Catholic."
+    solution:
+    - r1
+    text: 'Which of the following statements is TRUE:'
+  168f4c8ceb9b3d26d49b6cd1196a852de9ab7187796e499769164d0444824593:
+    choices:
+      r0: 'True'
+      r1: 'False'
+    explication: False. There are several British overseas territories in other parts
+      of the world, such as St Helena and the Falkland Islands. They are also linked
+      to the UK but are not part of it.
+    solution:
+    - r1
+    text: St Helena and the Falkland Islands are part of Great Britain.
+  3b7c7af43924e7f9ad60f3c1ee7158c164302137fee1306aac6b8c4b1e345906:
+    choices:
+      r0: 'True'
+      r1: 'False'
+    explication: 'False. Anyone can make a complaint about the police by going to
+      a police station and writing to the Chief Constable of the police force involved.
+      Complaints can also be made to an independent body: the Independent Police Complaints
+      Commission in England and Wales, the Police Complaints Commissioner for Scotland
+      or the Police Ombudsman for Northern Ireland.'
+    solution:
+    - r1
+    text: Complaints against the police can ONLY be made by writing to the Police
+      Complaints Commissioner.
+  658cdc8ad1ed304cd8487f6ce6d38cdbcb1940d029e799c92d4c8a1913422a8c:
+    choices:
+      r0: Catholic
+      r1: Baptist
+      r2: Presbyterian
+      r3: Methodist
+    explication: In Scotland, the national Church is the Church of Scotland, which
+      is a Presbyterian Church.
+    solution:
+    - r2
+    text: What sort of church is the Church of Scotland?
+  6ab6146a162d9e7cd456d9d6a8a5fa69a234106d7abf9e9404c9d881cffbc5bf:
+    choices:
+      r0: Edward I
+      r1: Henry V
+      r2: Henry VII
+      r3: Henry VIII
+    explication: The father of Queen Elizabeth I was Henry VIII.
+    solution:
+    - r3
+    text: Who was the father of Queen Elizabeth I?
+  795dcac34a35a4fdec6eec4553a3057cd20bc6346446b316a1eada4e9cf79aac:
+    choices:
+      r0: St George
+      r1: St Patrick
+      r2: St Andrew
+      r3: St David
+    explication: The patron Saint of Northern Ireland is St Patrick.
+    solution:
+    - r1
+    text: Who is the patron Saint of Northern Ireland?
+  7df6aced3577085b9f56c84e105e0bd012af5a51849c1024bfd8ab80e9581662:
+    choices:
+      r0: "The \u2018Glorious Revolution\u2019"
+      r1: The Restoration
+      r2: "The \u2018Great Depression\u2019"
+      r3: "The \u2018Blitz\u2019"
+    explication: "William of Orange was asked by Protestants to invade England and\
+      \ proclaim himself king. When William reached England, there was no resistance\
+      \ and he took over the throne. This event was later called the \u2018Glorious\
+      \ Revolution\u2019."
+    solution:
+    - r0
+    text: 'William of Orange was asked by Protestants to invade England and proclaim
+      himself king. But, when William reached England, there was no resistance and
+      he took over the throne. This event was later known as:'
+  7fd0f7392372e45d3012b9083b0dcf52995dbb63fc6db6265b0020eadb06ded4:
+    choices:
+      r0: The electoral register
+      r1: Your local church
+      r2: The NHS
+      r3: The British Embassy
+    explication: People on the electoral register are randomly selected to serve on
+      a jury. Therefore, if you want to be selected to form part of a jury you have
+      to be on the electoral register and be between 18 to 70 years old.
+    solution:
+    - r0
+    text: Where should you register if you want to become part of a jury?
+  8ef3143b6674a1f50fa82f0252badc36598ab7e6d7b1fd0cec68c708200a58f6:
+    choices:
+      r0: To sell tobacco products to anyone under the age of 18
+      r1: To buy alcohol for people who are under the age of 18
+      r2: Discrimination in the workplace
+      r3: To carry a weapon of any kind, even if it is for self-defence
+    explication: Discrimination in the workplace is an example of civil law.
+    solution:
+    - r2
+    text: Which of the following is an example of civil law?
+  93ad9b99c2e4760c952c7f480cd07491064eb8fb917589be0dae09b272967c06:
+    choices:
+      r0: Richard III
+      r1: Charles II
+      r2: James I
+      r3: Henry IV
+    explication: The correct answer is Charles II.
+    solution:
+    - r1
+    text: What king was defeated by Oliver Cromwell during the Civil War and hid in
+      an oak tree before escaping to Europe?
+  a093125f06caf2c5f3f19e444ddb4baf0559d44a2b0b3cacccebf26eab654770:
+    choices:
+      r0: Donating blood to help people
+      r1: Volunteering for an environmental charity
+      r2: Caring for animals at a local rescue shelter
+      r3: Persuading people to vote for a political party
+    explication: "Members of political parties persuade people to vote for their candidates\
+      \ \u2013 for instance, by handing out leaflets in the street or by knocking\
+      \ on people\u2019s doors and asking for their support. This is called \u2018\
+      canvassing\u2019."
+    solution:
+    - r3
+    text: "Which of the following actions is known as \u201Ccanvassing\u201D?"
+  a2fc347ce0fbb153177c0ed153a53d06148a2a362a5fb7d93d5e17fdf4a52171:
+    choices:
+      r0: Dorset
+      r1: Cornwall
+      r2: Devon
+      r3: Somerset
+    explication: The Eden Project is located in Cornwall, in the south west of England.
+    solution:
+    - r1
+    text: Where is the Eden Project located?
+  a6b28da19d15f1084bd9674c286d513e37e9ecd13d0c93c898765d059088c6ff:
+    choices:
+      r0: 1p
+      r1: 5p
+      r2: 25p
+      r3: "\xA31"
+    explication: There are no 25p coins in the UK currency.
+    solution:
+    - r2
+    text: Which of the following is not a valid UK coin?
+  c7ca8716d4afbfaaf3721487eec21ce9675d0a66275cbe95df22feadd7c62c3c:
+    choices:
+      r0: "Valentine\u2019s Day"
+      r1: Boxing Day
+      r2: Halloween
+      r3: "April Fool\u2019s Day"
+    explication: "On April Fool\u2019s Day, the 1st of April the television and newspapers\
+      \ often have stories that are April Fool jokes."
+    solution:
+    - r3
+    text: When do the television and newspapers have stories that are jokes until
+      midday?
+  c8d716a52e4a35cb996e1079e3cc0863bc267aea3da4966f01a0d71afb94bdee:
+    choices:
+      r0: Monarchy
+      r1: The rule of law
+      r2: Democracy
+      r3: Join a political party
+    explication: 'The fundamental principles of British life include: democracy, the
+      rule of law, individual liberty, tolerance of those with different faiths and
+      beliefs and participation in community life.'
+    solution:
+    - r1
+    - r2
+    text: Which two of the following are fundamental principles of British life?
+  cbded185b1f2066f9b905e414424d014cd162bba26bf6a0ad5608bc8a05eed68:
+    choices:
+      r0: Oliver Twist
+      r1: James Bond
+      r2: Pride and Prejudice
+      r3: The Lord of the Rings
+    explication: "In 2003, the Lord of the Rings by JRR Tolkien was voted the country\u2019\
+      s best-loved novel."
+    solution:
+    - r3
+    text: "Which novel written by JRR Tolkien was voted the country\u2019s best-loved\
+      \ novel in 2003?"
+  d4953e28662354a72e4db31b37ce1c3945c4d3eb16de69f74a1a1471b0c04211:
+    choices:
+      r0: An environmental charity
+      r1: A medical research charity
+      r2: A charity working with pets
+      r3: A charity working with older people
+    explication: Friends of the Earth is an environmental charity.
+    solution:
+    - r0
+    text: "What sort of charity is \u2018Friends of the Earth\u2019?"
+  deb5c0a41d8286f7b1f253304793df15e6a87f2ad96755d12cf185623607101d:
+    choices:
+      r0: The Enlightenment
+      r1: The Glorious Revolution
+      r2: The Swinging Sixties
+      r3: The Reformation
+    explication: "During the 18th century, new ideas about politics, philosophy and\
+      \ science were developed. This is often called \u2018the Enlightenment\u2019\
+      ."
+    solution:
+    - r0
+    text: What is the name of the period when new ideas about politics, philosophy
+      and science were developed?
+  e8f7964fcab6b2529b8ea0eb99139978d66ff410e57f303150fc91847092c3b1:
+    choices:
+      r0: 'True'
+      r1: 'False'
+    explication: This statement is true.
+    solution:
+    - r0
+    text: If a husband forces his wife to have sex he can be charged with rape.
+  f120de10fc9f87699121e2a4d5878585b9ee8f80d5695148528bd63c7751ef43:
+    choices:
+      r0: November or December
+      r1: January or February
+      r2: March or April
+      r3: May or June
+    explication: Easter takes place in March or April.
+    solution:
+    - r2
+    text: When does Easter take place?

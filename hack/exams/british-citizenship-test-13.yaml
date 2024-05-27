@@ -1,0 +1,261 @@
+questions:
+  0a647f342d9f28192a2c81578e88100aba3d8ae15fc85076aff904b760fd9a4b:
+    choices:
+      r0: The Houses of the Parliament
+      r1: The Tower of London
+      r2: The O2
+      r3: The Big Ben
+    explication: Beefeaters serve as tour guides at the Tower of London.
+    solution:
+    - r1
+    text: Where do Beefeaters serve as tour guides?
+  0ce942269380639c30cebb04715c4ddcd79838a4b3e9909abec5270496ca25c1:
+    choices:
+      r0: John Masefield
+      r1: Wilfred Owen
+      r2: Siegfried Sassoon
+      r3: William Wordsworth
+    explication: British poets, including William Wordsworth, were inspired by nature.
+    solution:
+    - r3
+    text: Which of the following poets was inspired by nature?
+  10e3acb4fcf45ba20802beb26872570f2cb297164456fc7a3f42de7bd456192e:
+    choices:
+      r0: The Archbishop of Canterbury
+      r1: The Archbishop of London
+      r2: The Archbishop of Birmingham
+      r3: The Archbishop of Manchester
+    explication: The spiritual leader of the Church of England is the Archbishop of
+      Canterbury.
+    solution:
+    - r0
+    text: Who is the spiritual leader of the Church of England?
+  14a53622457dd8795596dea72c60f41c8ce1b743695f5e20b9f7cd718ba90ec1:
+    choices:
+      r0: 'True'
+      r2: 'False'
+    explication: False. The present voting age of 18 was set in 1969 and (with a few
+      exceptions) all UK-born and naturalised adult citizens have the right to vote.
+    solution:
+    - r2
+    text: In the UK, you have to be 21 years old to be able to vote in a general election.
+  1a4a7eba20cbeb84584a06d28382194631f2d6d0a25dc027b0713057076eb2be:
+    choices:
+      r0: Bank Holidays
+      r1: Workers Holidays
+      r2: Business Holidays
+      r3: Summer Holidays
+    explication: There are public holidays each year called bank holidays, when banks
+      and many other businesses are closed for the day.
+    solution:
+    - r0
+    text: How are public holidays called?
+  2d0324b3e99635d1a60799966297ad0633b72455ee9b97ddabd345c1a6f8446e:
+    choices:
+      r0: Alexander McQueen
+      r1: Thomas Chippendale
+      r2: Clarice Cliff
+      r3: Mary Quant
+    explication: Britain has produced many great designers, from Thomas Chippendale
+      (who designed furniture in the 18th century) to Clarice Cliff (who designed
+      Art Deco ceramics) to Sir Terence Conran (a 20th-century interior designer).
+    solution:
+    - r2
+    text: Who was a famous Art Deco ceramic designer?
+  6f8eb4e012c42b0e9bd5d7f5f68ae9f35592802b70e51defb587f173d71a68c2:
+    choices:
+      r0: Edinburgh, Scotland
+      r1: Newmarket, Suffolk
+      r2: St Andrews, Scotland
+      r3: Aintree near Liverpool
+    explication: There is a National Horseracing Museum in Newmarket, Suffolk.
+    solution:
+    - r1
+    text: Where is the National Horseracing Museum located?
+  7223ac04bd50c1879c9e24bce28af6662753a78f64d50e30e49f48b6dd510111:
+    choices:
+      r0: The Canterbury Tales
+      r1: "All the world\u2019s a stage"
+      r2: "A Midsummer Night\u2019s dream"
+      r3: Great Expectations
+    explication: Geoffrey Chaucer wrote a series of poems in English about a group
+      of people going to Canterbury on a pilgrimage. The people decided to tell each
+      other stories on the journey, and the poems describe the travellers and some
+      of the stories they told. This collection of poems is called The Canterbury
+      Tales.
+    solution:
+    - r0
+    text: Which of the following poems is about a group of people going on a pilgrimage?
+  739e3c2b820524fce40e2e60e996c53396d2e2c822a63706a81f045bc8caa3f3:
+    choices:
+      r0: The Royal Navy
+      r1: The Police Force
+      r2: The Naval Service
+      r3: The Royal Air Force
+    explication: The correct answer is the Royal Air Force.
+    solution:
+    - r3
+    text: Which armed force was used in the Battle of Britain?
+  95e2611106f1ed03805032e4fc7d90d5a62b3205172ef09f7b16f4181b5d0bb9:
+    choices:
+      r0: "Hiding in a farmer\u2019s house"
+      r1: Riding a horse
+      r2: Hiding in an oak tree
+      r3: Swimming
+    explication: Charles II escaped from Worcester, famously hiding in an oak tree
+      on one occasion, and eventually fled to Europe.
+    solution:
+    - r2
+    text: How did Charles II manage to escape to Europe after his defeat in the Civil
+      War?
+  b335bfb4384c4117327aa8cd0b72a9beb6e57a49813b50a02f419adf80c55a18:
+    choices:
+      r0: Wales
+      r1: Ireland
+      r2: France
+      r3: Scotland
+    explication: When Elizabeth I died, her cousin James VI of Scotland became King
+      James I of England, Wales and Ireland and Scotland remained a separate country.
+    solution:
+    - r3
+    text: James I was King of which country before becoming King of England?
+  bf6ec9d5deb23329bd3a53558548ecdbb51be92c9660d8e3fc7682e8b1f01509:
+    choices:
+      r0: She was a Protestant
+      r2: She was a Catholic
+    explication: Elizabeth the I was a protestant.
+    solution:
+    - r0
+    text: What religion did Elizabeth I follow?
+  c51b2a46c6ddc484fc1c2696fb5da0fb8f3ddc4875cd057043f81bf671375c16:
+    choices:
+      r1: Most shops in the UK open seven days a week.
+      r2: All shops in the UK close on Sundays and bank holidays.
+    explication: Most shops in the UK are open seven days a week, although trading
+      hours on Sundays and public holidays are generally reduced.
+    solution:
+    - r1
+    text: Which of the following statements is correct?
+  cee59e52d71cd350ec3787777b42366661714f685c70fbdc31082e2729bcee23:
+    choices:
+      r0: A poet
+      r1: A sportsman
+      r2: A politician
+      r3: A musician
+    explication: William Wilberforce, an evangelical Christian and a member of Parliament,
+      also played an important part in changing the law. Along with other abolitionists
+      (people who supported the abolition of slavery), he succeeded in turning public
+      opinion against the slave trade.
+    solution:
+    - r2
+    text: Who was William Wilberforce?
+  cfc5758c57a3030641a9fad7d42050619d9a77defc6b9b93b03725b79ebdb227:
+    choices:
+      r0: 17th March
+      r1: 30th November
+      r2: 1st March
+      r3: 23rd April
+    explication: "St George\u2019s day, patron of England is celebrated on the 23rd\
+      \ of April."
+    solution:
+    - r3
+    text: "When is St George\u2019s day?"
+  d0a570230d7b843aed8073e431ab294a7f9d197d1965cb7d85fafc09f166f747:
+    choices:
+      r0: Harold
+      r1: Edward I of England
+      r2: King Arthur
+      r3: King Alfred the Great
+    explication: The Anglo-Saxon kingdoms in England united under King Alfred the
+      Great, who defeated the Vikings.
+    solution:
+    - r3
+    text: Who defeated the Vikings?
+  d6f582c027e3bb58c01eb3e4b7f1c914a3d1cc7d7cc9e0c625370ddadf8759ab:
+    choices:
+      r0: Germany
+      r1: Italy
+      r2: France
+      r3: Spain
+    explication: In 1815, the French Wars ended with the defeat of the Emperor Napoleon
+      by the Duke of Wellington at the Battle of Waterloo.
+    solution:
+    - r2
+    text: Against which country did Britain fight at the Battle of Waterloo?
+  df9cc4263cbbe4fa7d1eee9c4e6c306598951b65194e05dfc9bcd02e01aead38:
+    choices:
+      r0: France
+      r1: Germany
+      r2: Spain
+      r3: Italy
+    explication: Elizabeth became one of the most popular monarchs in English history,
+      particularly after 1588, when the English defeated the Spanish Armada (a large
+      fleet of ships), which had been sent by Spain to conquer England and restore
+      Catholicism.
+    solution:
+    - r2
+    text: Which country sent a fleet of ships to England in 1588?
+  e4f1eb08fe4196c8f0942c31354be4f55fc9487f51e4c2c9dfe16af2283317f0:
+    choices:
+      r0: Sir Rex Harrison
+      r1: David Niven
+      r2: Richard Burton
+      r3: Charlie Chaplin
+    explication: Charlie Chaplin became famous in silent movies for his tramp character.
+    solution:
+    - r3
+    text: Who became famous for his tramp character in silent movies?
+  e65532f22861a748218b7ee537c0f5cc088d6c4e8a87f3899e5fcd28047574c2:
+    choices:
+      r0: Crathes Castle
+      r1: Caernarfon Castle
+      r2: Bodiam Castle
+      r3: Powis Castle
+    explication: Crathes Castle is located in Scotland.
+    solution:
+    - r0
+    text: Which of the following castles is located in Scotland?
+  f98f1bc36e7aa82cd0784e843adc6a11eb7aa95c50cf31b3504f69a9d877daeb:
+    choices:
+      r0: A poet who wrote about a group of people going to Canterbury on a pilgrimage
+      r1: The first person in England to print books using a printing press
+      r2: The first person to sail singlehanded around the world
+      r3: The inventor of the television
+    explication: William Caxton was the first person in England to print books using
+      a printing press.
+    solution:
+    - r1
+    text: Who was William Caxton?
+  fbc11c93d543861c18e7655710eb0b1222d01f6a6dae7a1b472628dbf5644082:
+    choices:
+      r0: Snowdonia
+      r1: Loch Lomond and the Trossachs National Park
+      r2: "The Giant\u2019s Causeway"
+      r3: The Lake District
+    explication: "The Lake District is England\u2019s largest national park."
+    solution:
+    - r3
+    text: Which is the largest National Park in England?
+  fbee5bf0ac742ef2e0b8d318445c648baf9460585f232f988399bee9dc6546df:
+    choices:
+      r0: Glasgow
+      r1: Galloway
+      r2: The Highlands
+      r3: Edinburgh
+    explication: Charles Edward Stuart (Bonnie Prince Charlie) was supported by clansmen
+      from the Scottish Highlands.
+    solution:
+    - r2
+    text: During the rebellion of the clans in Scotland, Bonnie Prince Charlie was
+      supported by clansmen from which Scottish region?
+  fe896d305283db3940e41b11744d8b3114aa94a4674aad52f6a1daa1747fb32e:
+    choices:
+      r0: The Normands
+      r1: The Vikings
+      r2: The Anglo-Saxons
+      r3: The Romans
+    explication: One of the tribal leaders who fought against the Romans was Boudicca,
+      the queen of the Iceni.
+    solution:
+    - r3
+    text: Boudicca, was a tribal leader who fought against which foreign invaders?

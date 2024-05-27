@@ -1,0 +1,288 @@
+questions:
+  156f4a893f65929145396a7bcd336bbc115013345fcd5f86a2633b23f04a1133:
+    choices:
+      r0: Andorra
+      r1: Germany
+      r2: France
+      r3: Luxembourg
+    explication: During the 18th century, trading and settlements overseas sometimes
+      brought Britain into conflict with other countries, particularly France, which
+      was expanding and trading in a similar way in many of the same areas of the
+      world.
+    solution:
+    - r2
+    text: What country was in conflict with the UK for trading reasons during the
+      18th century?
+  21322867e7f4001d9e47c61ceda4cb6536d885450f74518849ecc6033f9facd3:
+    choices:
+      r0: 'True'
+      r1: 'False'
+    explication: This statement is true.
+    solution:
+    - r0
+    text: In Northern Ireland, up to three specially trained magistrates or a District
+      Judge are required for Youth Court cases.
+  27168292a9212f6a93ecb247b79615fad9186a6183c4d5e2af9fe10fd0900065:
+    choices:
+      r0: He moved to Spain
+      r1: He became a priest
+      r2: He escaped to France
+      r3: He was executed
+    explication: "Charles I\u2019s army was defeated at the Battles of Marston Moor\
+      \ and Naseby. Charles was held prisoner by the parliamentary army. As he was\
+      \ unwilling to reach any agreement with the Parliament, in 1649 he was executed."
+    solution:
+    - r3
+    text: What happened to Charles I after he was in prison?
+  28661936e98f9ef77e79dc6eb1e8bf1c1151413561c337dd0922ab8153a34d05:
+    choices:
+      r0: John Major
+      r1: Sir Alec Douglas-Home
+      r2: Robert Walpole
+      r3: Margaret Thatcher
+    explication: Margaret Thatcher was the first woman Prime Minister of the UK. She
+      was the longest-serving Prime Minister of the 20th century, remaining in office
+      from 1979 until 1990.
+    solution:
+    - r3
+    text: Who was the longest serving PM in the 20th century?
+  302af09604bf93aa591418d26be6802fefd7461b7d8599b878523aaadbdc9d5e:
+    choices:
+      r0: James I
+      r1: James II
+      r2: Richard I
+      r3: Richard II
+    explication: William of Orange defeated James II at the Battle of the Boyne in
+      Ireland in 1690.
+    solution:
+    - r1
+    text: Who was defeated at the Battle of the Boyne?
+  3049b4fc4331ec70a7a27e17cac66b7e958f70ddee04d239a08e38b7479f7a1c:
+    choices:
+      r0: The Duke of Medina Sidonia
+      r1: Napoleon
+      r2: King Philip II of Spain
+      r3: William of Orange
+    explication: In 1688, important Protestants in England asked William of Orange
+      to invade England and proclaim himself king.
+    solution:
+    - r3
+    text: Who was invited to invade and rule England in 1688?
+  308b46d1de15a8927a2ce9ba734f25a9232ee3a129fdf05e75e78b1937e8e42f:
+    choices:
+      r0: Architecture
+      r1: Poetry
+      r2: Cinema
+      r3: Philosophy
+    explication: David Hume was a famous philosopher who developed ideas about human
+      nature during the 18th century and that have continued to influence philosophers
+      over the years.
+    solution:
+    - r3
+    text: What area did David Hume contribute to during the Enlightenment?
+  3ea2ef0345cf268bd0d04d5b032a0d824211a5c7f6ee0c08f171b4d83492569b:
+    choices:
+      r0: Crown Dependencies
+      r1: Offshore Territories
+      r2: Crown Independencies
+      r3: British Colonies
+    explication: "There are several islands which are closely linked with the UK but\
+      \ are not part of it: the Channel Islands and the Isle of Man. These have their\
+      \ own governments and are called \u2018Crown dependencies\u2019."
+    solution:
+    - r0
+    text: What name is given to the territories which are linked to the UK but not
+      part of it?
+  46ac6274753fca8cacb392ec398e634ab20eb26555b7a16b3f762c6d8a3dc2ce:
+    choices:
+      r0: Protect life and property
+      r1: Represent everyone in their constituency
+      r2: Help to create new laws
+      r3: Scrutinise and comment on what the monarch is doing
+    explication: 'MPs responsibilities include: to represent everyone in their constituency,
+      to help to create new laws, to scrutinise and comment on what the government
+      is doing and to debate important national issues.'
+    solution:
+    - r1
+    - r2
+    text: Which of the following are TWO responsibilities of the MPs?
+  51fc203948603ab04f4f920324a10859ae352af21c29822070e47d2892bea727:
+    choices:
+      r0: Italy
+      r1: Portugal
+      r2: France
+      r3: Ireland
+    explication: William the Conqueror was the Duke of Normandy (now northern France).
+      He defeated Harold, the Saxon king of England, at the Battle of Hastings in
+      1066.
+    solution:
+    - r2
+    text: Where was William the Conqueror from?
+  626788c6d2234ad718f16c481ada2c6d24181cec9b4ada2932a099803b945d26:
+    choices:
+      r0: Half of the population
+      r1: One third of the population
+      r2: 55% of the population
+      r3: One quarter of the population
+    explication: As a result of the Black Death, one third of the population of England
+      died and a similar proportion in Scotland and Wales.
+    solution:
+    - r1
+    text: What proportion of the population died as a result of the Black Death in
+      England?
+  6e2be56046884ef474e1adf6a5d35aeeec87f347434ee7eeebf321e507cd8197:
+    choices:
+      r0: The Parliament
+      r1: The cabinet
+      r2: The armed forces
+      r3: The police
+    explication: 'Constitutional institutions in the UK include: the monarchy, the
+      Parliament (the House of Commons and the House of Lords), the Prime Minister,
+      the cabinet, the judiciary (courts), the police, the civil service  and the
+      local government. The armed forces are not a constitutional institution.'
+    solution:
+    - r2
+    text: Which of the following is not a constitutional institution?
+  7297c14246b1190cb9806d770524ba798267d5e52201ac928f7c2ad15feabacf:
+    choices:
+      r0: 'True'
+      r1: 'False'
+    explication: This statement is true.
+    solution:
+    - r0
+    text: The Speaker is an MP, he or she represents a constituency and deals with
+      the constituents.
+  7e770e13f99be4550a7334fe5ea77684718730bc686bc04a728e2fc3e0b1a3c3:
+    choices:
+      r0: Education
+      r1: Immigration
+      r2: Security
+      r3: Defence
+    explication: 'The Scottish Parliament can legislate on: civil and criminal law,
+      health, education, planning and additional tax-raising powers.'
+    solution:
+    - r0
+    text: In which of the following matters can the Scottish Parliament legislate?
+  80ca8abb30d6e1f3690171ac892aaaca3b7aa5ca4517a1a3a869ffcffe30e8fe:
+    choices:
+      r0: MacBeth
+      r1: The Canterbury Tales
+      r2: Doctor Faustus
+      r3: The Mikado
+    explication: "William Shakespeare\u2019s most famous plays include MacBeth."
+    solution:
+    - r0
+    text: Which of the following plays was written by William Shakespeare?
+  8c791454763d2fac505fb141c09eeb717d65d6d37fda6188f59367aff46fe017:
+    choices:
+      r0: To appoint the members of the cabinet
+      r1: "To advise, warn and encourage the Prime Minister\u2018s decisions on government\
+        \ policies"
+      r2: To debate important national issues
+      r3: To appoint the government
+    explication: The monarch does not rule the country but appoints the government,
+      which the people have chosen in a democratic election. The monarch also has
+      regular meetings with the Prime Minister and can advise, warn and encourage,
+      but the decisions on government policies are made by the Prime Minister and
+      cabinet.
+    solution:
+    - r1
+    - r3
+    text: What are TWO responsibilities of the monarch?
+  8d252ad9732b7c0eaa7159a6b7c0fb386f565bfd5ed3f23ecfe00b5ae633a23c:
+    choices:
+      r0: Blacksmiths
+      r1: Boers
+      r2: Conquistadors
+      r3: Beefeaters
+    explication: The British went to war in South Africa with settlers from the Netherlands
+      called the Boers. The Boers fought fiercely and the war went on for over three
+      years.
+    solution:
+    - r1
+    text: How do you call the settlers from the Netherlands who went to war with the
+      British in South Africa?
+  90be3de0d4160f014c9d00d2c66edff9d207948ad96e8396ef4ceba31f808f8f:
+    choices:
+      r0: He was the first man in the world to run a mile in under four minutes.
+      r1: He won gold medals for ice dancing at the Olympic Games in 1984.
+      r2: He won gold medals in rowing in five consecutive Olympic Games.
+      r3: He was the first British to climb Mount Everest.
+    explication: Sir Roger Bannister was the first man in the world to run a mile
+      in under four minutes, in 1954.
+    solution:
+    - r0
+    text: What made Roger Bannister famous?
+  a53fea73f1596d219dc451773f83a6d3b33c1c9bc4e08a02b9b6b5bf440c7e41:
+    choices:
+      r0: Scotland
+      r1: Wales
+      r2: England
+      r3: Northern Ireland
+    explication: Skara Brae on Orkney, off the north coast of Scotland, is the best
+      preserved prehistoric village in northern Europe.
+    solution:
+    - r0
+    text: Where is Skara Brae, the best preserved prehistoric village in northern
+      Europe, located?
+  a9bc5df42c07f9a94ba89fe5d6462a3ff954f9320e178134ad339048782bf80a:
+    choices:
+      r0: It limited the number of hours that everybody could work to 10 hours per
+        day.
+      r1: It increased the number of hours that women and children could work to 12
+        hours per day.
+      r2: It increased the number of hours that men could work to 12 hours per day.
+      r3: It limited the number of hours that women and children could work to 10
+        hours per day.
+    explication: The Factories Act of 1847 limited the number of hours that women
+      and children could work to 10 hours per day.
+    solution:
+    - r3
+    text: What did the Factories Act of 1847 introduce?
+  ac3ed02c8ae0ced0e3716a35872c1b22d3d35c575e581a82754b89d0163128bc:
+    choices:
+      r0: Shadow Cabinet
+      r1: Lobby groups
+      r2: Civil servants
+      r3: Support peers
+    explication: "The leader of the opposition appoints senior opposition MPs to be\
+      \ \u2018shadow ministers\u2019. Their role is to challenge the government and\
+      \ put forward alternative policies. They form the shadow cabinet."
+    solution:
+    - r0
+    text: The leader of the opposition appoints senior opposition MPs. They form a
+      group whose role is to challenge the government and put forward alternative
+      policies. What are they called?
+  c391bd4a87f41ccbee9739a1cfee0bcd1840a2c4c860fa0e4fcfb339e96f5ca0:
+    choices:
+      r0: Roundheads
+      r1: Cavaliers
+      r2: Shadow Cabinet
+      r3: Quakers
+    explication: Opposition MPs form the shadow cabinet and their role is to challenge
+      the government and put forward alternative policies.
+    solution:
+    - r2
+    text: What name is given to the group of MPs from the opposition?
+  e94162d436e5baf8eb996451b6efc6aeb89da23bbc6a07cce48aafb598c960e1:
+    choices:
+      r0: Corn
+      r1: Potato
+      r2: Wheat
+      r3: Oats
+    explication: In the middle of the century the potato crop failed, and Ireland
+      suffered a famine. A million people died from disease and starvation.
+    solution:
+    - r1
+    text: What food shortage caused the famine in Ireland?
+  f4dfc636fc18fdb5837caf8d52993327c12289a7b56fc26cd1f4a4014f7c43b9:
+    choices:
+      r0: A plague
+      r1: An earthquake
+      r2: A famine
+      r3: A civil war
+    explication: The Black Death was a disease, probably a form of plague, that came
+      to Britain in 1348.
+    solution:
+    - r0
+    text: What kind of disaster was the Black Death?

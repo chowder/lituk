@@ -1,0 +1,264 @@
+questions:
+  1cb5e528cd40c32390b270171106aa6b52b7d48bea47a33f0d564f4f49ade4f6:
+    choices:
+      r0: Hannukah
+      r1: Vaisakhi
+      r2: Eid ul Adha
+      r3: Eid al-Fitr
+    explication: Eid al-Fitr celebrates the end of Ramadan, when Muslims have fasted
+      for a month.
+    solution:
+    - r3
+    text: Which festival celebrates the end of Ramadan, when Muslims have fasted for
+      a month?
+  20af6e0895311cc9f46ef47c7311e3dad1233e486c16539570ca3e5d0d8b458b:
+    choices:
+      r0: 'True'
+      r2: 'False'
+    explication: False. The National Citizen Service programme, which gives 16- and
+      17-year-olds the opportunity to enjoy outdoor activities, develop their skills
+      and take part in a community project. Therefore, it is optional.
+    solution:
+    - r2
+    text: "It is compulsory for\_16 and 17-year-olds to join the National Citizen\
+      \ Service programme."
+  38ae966b217c276ce0fefd3b6690fe664f62b0e24ae3e77b8e718f2bece13a3b:
+    choices:
+      r1: 'True'
+      r2: 'False'
+    explication: This statement is true.
+    solution:
+    - r1
+    text: Lake District is the largest national park of England.
+  448e7e9ac457e065c7f365b32d41c55115ebff7c22c9dabcdc716f78ee8c59d6:
+    choices:
+      r0: Knights
+      r1: Chartists
+      r2: Suffragettes
+      r3: Beefeaters
+    explication: "Tours are given at the Tower of London by the Yeoman Warders, also\
+      \ known as Beefeaters, who tell visitors about the building\u2019s history."
+    solution:
+    - r3
+    text: "What is the name of the tour guides that tell visitors stories about the\
+      \ Tower of London\u2019s history?"
+  4554246aa86beb9f74646964e7dddc5247534b2eba5682fc3bff2d5ec6dc89f4:
+    choices:
+      r0: Sir Chris Hoy
+      r1: Sir Roger Bannister
+      r2: David Weir
+      r3: Mo Farah
+    explication: Sir Roger Bannister was the first man in the world to run a mile
+      in under four minutes, in 1954.
+    solution:
+    - r1
+    text: Who was the first man in the world to run 1 mile in under 4 minutes?
+  458b4d81ccd03bf1655b4b184498fb6c5fa58fe7dc6093f66c2af11fb9099420:
+    choices:
+      r0: Queen Victoria
+      r1: Oliver Cromwell
+      r2: Florence Nightingale
+      r3: Emmeline Pankhurst
+    explication: Emmeline Pankhurst was the leader of the suffragettes.
+    solution:
+    - r3
+    text: "Who was the leader of the suffragettes, the group that campaigned for women\u2019\
+      s rights to vote?"
+  4dc9f303a7e4e79359f3d2f65ed20e3c74ce004184b852d00b31ff3e5675f749:
+    choices:
+      r0: Italy
+      r1: Britain
+      r2: Germany
+      r3: France
+    explication: "Britain and France developed the world\u2019s only supersonic commercial\
+      \ airliner, Concorde."
+    solution:
+    - r1
+    - r3
+    text: "Which two countries developed the Concorde, the world\u2019s only supersonic\
+      \ commercial airliner?"
+  52c19652e3020daba9995f4840147c32c5b35a89dc4837ebc4417988ee695ea1:
+    choices:
+      r0: The Home Office
+      r1: Your local police force
+      r2: Your local MP
+      r3: Your family
+    explication: If you think someone is trying to persuade you to join an extremist
+      or terrorist cause, you should notify your local police force.
+    solution:
+    - r1
+    text: If you think someone is trying to persuade you to join an extremist or terrorist
+      activity, who should you contact?
+  5f6c1b9f17cb5ae49876b3d8b73e068ba772e05212007c9f43e53918607e2df3:
+    choices:
+      r0: Scotland
+      r1: Wales
+      r2: England
+      r3: Northern Ireland
+    explication: Snowdonia is in Wales.
+    solution:
+    - r1
+    text: Where is Snowdonia located?
+  70dd357e7e6c21cc72aab4b9232d1fdffca2bf6bdcf7b4ed230d58a00edcd6d1:
+    choices:
+      r0: 'True'
+      r1: 'False'
+    explication: False. There is no established Church in Wales or Northern Ireland.
+    solution:
+    - r1
+    text: Wales has its own established church.
+  7637efbdc835a0939dd7542aaff9bdb5f5a1bd58d02844c9e97c7b121fd439b9:
+    choices:
+      r0: Bonnie Prince Charlie
+      r1: Robert Burns
+      r2: Oliver Cromwell
+      r3: Kenneth MacAlpin
+    explication: "In 1745 there was another attempt to put a Stuart king back on the\
+      \ throne in place of George I\u2019s son, George II. Charles Edward Stuart (Bonnie\
+      \ Prince Charlie), the grandson of James II, landed in Scotland. He was supported\
+      \ by clansmen from the Scottish highlands and raised and army."
+    solution:
+    - r0
+    text: Who was supported by clansmen from the Scottish highlands and raised and
+      army in 1745?
+  7a6544b696695506ff676676feb45915d50678c249529bdb14d81b5ef112169c:
+    choices:
+      r0: Austria
+      r1: Italy
+      r2: Russia
+      r3: Poland
+    explication: Germany invaded Poland in 1939.
+    solution:
+    - r3
+    text: Which country was invaded by Germany in 1939?
+  812e693805c8774aa33807e361bf9524ce6f81c4a74be51d206dfd18c2cec88c:
+    choices:
+      r0: Vaisakhi
+      r1: Hannukah
+      r2: Diwali
+      r3: Hogmanay
+    explication: "In Scotland, the 31st of December (New Year\u2019s Eve) is called\
+      \ Hogmanay."
+    solution:
+    - r3
+    text: "How is New Year\u2019s Eve called in Scotland?"
+  81dbfeddebe08109030bf9f4b20f57a8986789cd08de1f97a47c8765a6f8375f:
+    choices:
+      r0: "Because the Pope didn\u2019t let him divorce his first wife, Catherine\
+        \ of Aragon"
+      r1: "Because the Pope didn\u2019t let him marry Catherine Howard"
+      r2: Because the Pope wanted England to be a Catholic country
+      r3: "Because the Pope didn\u2019t let him divorce his wife, Anne of Cleves"
+    explication: To divorce his first wife, Henry needed the approval of the Pope.
+      When the Pope refused, Henry established the church of England.
+    solution:
+    - r0
+    text: Why did Henry VIII establish the church of England?
+  8b8733f9985b347e053d8a0f7eabdb584e28c8f23b1360c01bc7639228459dd3:
+    choices:
+      r0: Housing construction
+      r1: Shipbuilding
+      r2: Automobile
+      r3: Aviation
+    explication: "During the \u2018Great Depression\u2019 in the 1930s the traditional\
+      \ heavy industries such as shipbuilding were badly affected."
+    solution:
+    - r1
+    text: During the Great Depression in the 1930s which industry was badly affected?
+  99be17c2c46c014a864d3124788153855150ea47c2190eb72bf94704b0cb9484:
+    choices:
+      r0: Evelyn Waugh
+      r1: Sir Kingsley Amis
+      r2: Graham Greene
+      r3: Sir Arthur Conan Doyle
+    explication: Sir Arthur Conan Doyle is the author of Sherlock Holmes.
+    solution:
+    - r3
+    text: Who wrote Sherlock Holmes?
+  b4f6ced053e9ccb9a60a4dfa2fee34dae4c0ff12aca239fa3737d68c525cfac2:
+    choices:
+      r0: Communism
+      r1: Intolerance
+      r2: Individual liberty
+      r3: Inequity
+    explication: Individual liberty is the correct answer.
+    solution:
+    - r2
+    text: Which of the following is a fundamental principle of British life?
+  b61670f3f5b941b600e8af9bfbf00321ffff0af3aa0132d7ad5ce4b84e318755:
+    choices:
+      r0: The British government wanted to control their borders
+      r1: They were running out of resources
+      r2: The British government wanted to tax them
+      r3: There were not enough jobs for the local people
+    explication: The British government wanted to tax the colonies.
+    solution:
+    - r2
+    text: What led the American colonies to want their independence from Britain?
+  b7363b96eb90e2e4cf7f96ce356a3f8a98b80a4e08f67d60c7caf3ddae493ef6:
+    choices:
+      r0: The Golden Age
+      r1: The Stone Age
+      r2: The Middle Ages
+      r3: The Iron Age
+    explication: In 1348 (Middle Ages) the Black Death came to Britain.
+    solution:
+    - r2
+    text: When did the Black Death take place?
+  b91fbda23dd8a303a4a81ca169381a45418404be43a6bde988ad29084f92969e:
+    choices:
+      r0: Soho
+      r1: Theatreland
+      r2: Westminster
+      r3: Hyde Park
+    explication: "London\u2019s west end, also known as \u2018Theatreland\u2019, is\
+      \ particularly well known for its theatres."
+    solution:
+    - r1
+    text: What is the name of the area in London where famous theatres are located?
+  cf20cd55e0df621ebfa5934a7904a8eeeda54b250160ce287f947ac370d4f958:
+    choices:
+      r0: Scotland
+      r1: Northern Ireland
+      r2: Ireland
+      r3: Wales
+    explication: The capital city of Wales is Cardiff.
+    solution:
+    - r3
+    text: Cardiff is the capital city of which country?
+  d4cc28f74b5cedcca2cbeacb4013e684cb237d74ac24a4b6d319cee53fdb6d35:
+    choices:
+      r0: St David
+      r1: St George
+      r2: St Patrick
+      r3: St Andrew
+    explication: The patron Saint of Wales is St David.
+    solution:
+    - r0
+    text: Who is the patron Saint of Wales?
+  eac954ce5102dcc9ba1cae27f6fff3e7aa9a77e0cab6afbed69bb65140187fe7:
+    choices:
+      r0: "Monitoring student\u2019s behaviour"
+      r1: Monitoring and evaluating school performance
+      r2: Setting the strategic direction of the school
+      r3: Giving awards to the best students of the school
+    explication: 'Governors and school boards have an important part to play in raising
+      school standards. They have three key roles: setting the strategic direction
+      of the school, ensuring accountability and monitoring and evaluating school
+      performance.'
+    solution:
+    - r1
+    - r2
+    text: Which two of the following are key roles of school governors?
+  fb83d6ad2722d100f514837f46d6c45b355dc7e76e49b2b5a8979a512da1a907:
+    choices:
+      r0: The Crimean War
+      r1: The First World War
+      r2: The Hundred Years War
+      r3: The Boer War
+    explication: English kings fought a long war with France, called the Hundred Years
+      War (even though it actually lasted 116 years).
+    solution:
+    - r2
+    text: What is the name of the long war that English kings fought with France in
+      the middle ages?

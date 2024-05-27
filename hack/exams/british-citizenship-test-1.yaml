@@ -1,0 +1,265 @@
+questions:
+  00f874eb917500e2a78abe98b50ef47b4bb66ad27eb2cfa4c9e9979d0aed65f7:
+    choices:
+      r0: "Solicitors\u2019 charges are usually based on how much time they spend\
+        \ on a case"
+      r1: "Solicitors\u2019 charges are usually based on the nature of a case and\
+        \ its importance"
+    explication: "Solicitors\u2019 charges are usually based on how much time they\
+      \ spend of a case."
+    solution:
+    - r0
+    text: Which of the following statements is correct?
+  0acec8115cdf8f4d007dde1ffb4ef0d75c99d8112e59a26fbfd42917b6409da7:
+    choices:
+      r0: A public holiday when banks are open all day
+      r1: A public holiday for people working in banks
+      r2: An additional day off that every worker in the UK is entitled to
+      r3: A public holiday when banks and many other businesses are closed for the
+        day
+    explication: There are public holidays each year called bank holidays, when banks
+      and many other businesses are closed for the day.
+    solution:
+    - r3
+    text: What is a bank holiday?
+  0af284beeaf4f22a79e9a89c3506b1455e08c2c375d75963f2442ba0062e3dd6:
+    choices:
+      r0: 'True'
+      r1: 'False'
+    explication: "False.\_The Bill of Rights, 1689, confirmed the rights of Parliament\
+      \ and the limits of the king\u2019s power."
+    solution:
+    - r1
+    text: The Bill of Rights of 1689 confirmed the right to vote for all adult men.
+  172ae84abe481fbee441a189c070aed32900894b2d8cfd28a3b3afc943aee280:
+    choices:
+      r0: From the NHS registration system
+      r1: Randomly from the electoral register
+      r2: Alphabetically from the telephone directory
+      r3: From a postcode selection
+    explication: As well as getting the right to vote, people on the electoral register
+      are randomly selected to serve on a jury. Anyone who is on the electoral register
+      and is aged 18 to 70 can be asked to do this.
+    solution:
+    - r1
+    text: How is a jury selected?
+  2226e7646a55add965bd8e1002f833719e843d89e19ab159eba99c5b9c1ad763:
+    choices:
+      r0: Television
+      r1: Internet
+      r2: Newspapers
+      r3: Radio
+    explication: By law, radio and television coverage of the political parties must
+      be balanced and so equal time has to be given to rival viewpoints.
+    solution:
+    - r0
+    - r3
+    text: By law, which TWO types of media have to give a balanced coverage of all
+      political parties and equal time to rival viewpoints before an election?
+  2bc23e29099075927c8582a7676e0562570b6389cdc9e4e944b2e399cbd61150:
+    choices:
+      r0: Radar
+      r1: Hovercraft
+      r2: Jet engine
+      r3: Ballpoint pen
+    explication: The jet engine was developed in Britain in the 1930s by Sir Frank
+      Whittle.
+    solution:
+    - r2
+    text: What did Sir Frank Whittle invent in the 1930s?
+  475c780c2beeec3c979adc7b6a70aa8b451b341fec19d28a395f5ce08cf6e372:
+    choices:
+      r0: Buckingham Palace
+      r1: The Tower of London
+      r2: Trafalgar Square
+      r3: The Houses of the Parliament
+    explication: Big Ben is the nickname for the great bell of the clock at the Houses
+      of Parliament in London.
+    solution:
+    - r3
+    text: Where is Big Ben located?
+  4dc4b6bc77fbec6f4a6452c1611ee0eb5675c62caf21668a2683cdf9e87a9421:
+    choices:
+      r0: '16'
+      r1: '18'
+      r2: '21'
+      r3: '25'
+    explication: Anyone who is on the electoral register and is aged 18 to 70 can
+      be asked to serve on a jury.
+    solution:
+    - r1
+    text: What is the minimum age required to serve on a jury?
+  5759d340ef6ca0fed4b8222e57e140cd3792a34acb0a1f6647f5d6c039fbbdc5:
+    choices:
+      r0: 'True'
+      r1: 'False'
+    explication: This statement is TRUE.
+    solution:
+    - r0
+    text: Anyone can make a complaint about the police by writing to the Chief Constable
+      of the police force involved.
+  5b5abb0a83a0d2941b63916e4f40a2c350913977a6fbac730c8d15ece0e44238:
+    choices:
+      r0: Northern Ireland
+      r1: Wales
+      r2: The Channel Islands
+      r3: Scotland
+    explication: The Channel Islands is a British overseas territory linked to the
+      UK, but it is not part of it.
+    solution:
+    - r2
+    text: Which of the following territories is a Crown dependency but is NOT part
+      of the UK?
+  78cd405cb782a964f7c572cfc651db881d69566c40facf89b28fe482a9805a5b:
+    choices:
+      r0: '1918'
+      r1: '1903'
+      r2: '1928'
+      r3: '1923'
+    explication: In 1928, women were given the right to vote at the age of 21, the
+      same as men.
+    solution:
+    - r2
+    text: When were men and women given the right to vote at the age of 21?
+  7ad2b26d74630fe5162981d999bd1de7f2ae62eb1fa8c8baebb1359040e78eb0:
+    choices:
+      r0: Sir Roger Bannister
+      r1: Sir Jackie Stewart
+      r2: Sir Ian Botham
+      r3: Bobby Moore
+    explication: Bobby Moore captained the English football team that won the World
+      Cup in 1966.
+    solution:
+    - r3
+    text: Who was the captain of the English football team that won the World Cup
+      in 1966?
+  7f313583213e6c9b781db0ad402edce32f7b30f17ee5506efb299c8e2413b79c:
+    choices:
+      r0: St David
+      r1: St Patrick
+      r2: St George
+      r3: St Andrew
+    explication: The patron Saint of Scotland is St Andrew.
+    solution:
+    - r3
+    text: Who is the patron Saint of Scotland?
+  8296fa2bb2e0958c9ca4767c3c9472df2991094ea8d6d065f1ccdffd113779ac:
+    choices:
+      r0: A ballot slip
+      r1: A poll card
+      r2: A voting slip
+      r3: A poll tax relief
+    explication: Before the election you will be sent a poll card.
+    solution:
+    - r1
+    text: What will you be given to vote before a general election takes place?
+  97db63cbb7f9dba7e9b19900535494d0df47308112b986f046479c25bf691347:
+    choices:
+      r0: A flower
+      r1: A Christian church
+      r2: A war memorial
+      r3: A theatre
+    explication: "The Cenotaph is a war memorial and it is\_the site of the annual\
+      \ Remembrance Day service attended by the King, politicians and foreign ambassadors."
+    solution:
+    - r2
+    text: What is the Cenotaph?
+  add269fc7fb1ce766143bb206945ec0670be9a55926fe73dda1d460ef275c277:
+    choices:
+      r0: Charles I
+      r1: Charles II
+      r2: Winston Churchill
+      r3: Oliver Cromwell
+    explication: Oliver Cromwell was given the title of Lord Protector and ruled until
+      his death in 1658.
+    solution:
+    - r3
+    text: "Who was given\_the title of\_Lord Protector?"
+  b4723bcacbaabf0a7ca194fde809f3ac5b679ccf827a2ecc3d47cfce6b9932c4:
+    choices:
+      r0: A bishop
+      r1: The Prime Minister
+      r2: The Speaker
+      r3: The archbishop of Canterbury
+    explication: Debates in the House of Commons are chaired by the Speaker.
+    solution:
+    - r2
+    text: Who chairs the debates at the House of Commons?
+  b54ce76d6ff2b620b623caaabd878e6c4c15593c22ce5384c67109a7cdf0cad2:
+    choices:
+      r0: To look after the area in which you live and the environment
+      r1: To look after yourself and your family
+      r2: To stay in the UK forever
+      r3: To promote work in your local community
+    explication: 'If you wish to be a permanent resident or citizen of the UK, you
+      should: look after yourself and your family, look after the area in which you
+      live and the environment, respect and obey the law, respect the rights of others,
+      including their right to their own opinions and treat others with fairness.'
+    solution:
+    - r0
+    - r1
+    text: What are two responsibilities that you will have as a British citizen or
+      permanent resident of the UK?
+  c9afd90bd1ff2aa5794d6bc5075e061a25d1b5282b30a42b81c68fac80ecdfc4:
+    choices:
+      r0: '1466'
+      r1: '1066'
+      r2: '1254'
+      r3: '1588'
+    explication: In 1588 the English defeated the Spanish Armada.
+    solution:
+    - r3
+    text: When did the English defeat the Spanish Armada?
+  d44666548623d019a3f09dcdaa877d017596649b66e051fa36d2a2b6d136ef50:
+    choices:
+      r0: The House of Chester
+      r1: The House of York
+      r2: The House of Lancaster
+      r3: The House of Newcastle
+    explication: 'The Wars of the Roses were fought between the supporters of two
+      families: the House of Lancaster and the House of York.'
+    solution:
+    - r1
+    - r2
+    text: Which two houses fought in the Wars of the Roses?
+  e73ba35adb8d8ede018d40ca8cfd44b07b322f486f3ea14b4628f2d1b3f994ab:
+    choices:
+      r0: South west of Europe
+      r1: North east of Europe
+      r2: North west of Europe
+      r3: South east of Europe
+    explication: The UK is located in the north west of Europe.
+    solution:
+    - r2
+    text: Where is the UK geographically located?
+  efca6c785bf708c447c1eceb33ad9426c2f52839e0277850bb0b76493eafb014:
+    choices:
+      r0: William Blake
+      r1: Robert Browning
+      r2: Lord Byron
+      r3: William Wordsworth
+    explication: "The British poet William Wordsworth wrote \u2018The Daffodils\u2019\
+      ."
+    solution:
+    - r3
+    text: "Who wrote \u2018The Daffodils\u2019?"
+  faa3c9653547ed0be5a11d8389d8429d84761e8507b9f892bb412796a7b427d1:
+    choices:
+      r0: Diwali
+      r1: Lent
+      r2: Hannukah
+      r3: Vaisakhi
+    explication: The 40 days before Easter are known as Lent.
+    solution:
+    - r1
+    text: What are the 40 days before Easter called?
+  fe6d26cddbbbfcde72ebb55df35410388bd2763cfc2d52b8bf0aec6de0035567:
+    choices:
+      r0: Mary Stuart
+      r1: Theresa May
+      r2: Margaret Thatcher
+      r3: Florence Nightingale
+    explication: Margaret Thatcher was the first woman Prime Minister of the UK.
+    solution:
+    - r2
+    text: Who was the first female Prime Minister of the UK?

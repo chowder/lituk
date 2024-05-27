@@ -1,0 +1,278 @@
+questions:
+  0c4577ff67cdd9c997f296a3084e0aac2e9ac4eda0abe588dd279c3e2b981731:
+    choices:
+      r0: '18'
+      r1: '21'
+      r2: '16'
+      r3: '25'
+    explication: 'Most citizens of the UK, the Irish republic or the Commonwealth
+      aged 18 or over can stand for public office. There are some exceptions, including:
+      members of the armed forces, civil servants and people found guilty of certain
+      criminal offences.'
+    solution:
+    - r0
+    text: How old do citizens of the UK, the Irish Republic or the Commonwealth have
+      to be to stand for public office?
+  0cffdb030ed9e310be8941e8bf8ab542e81ece789129755f68d77eec215876db:
+    choices:
+      r0: Christmas Day in Wales
+      r1: "New Year\u2019s Eve in Scotland"
+      r2: Christmas Day in Scotland
+      r3: "New Year\u2019s Eve in Wales"
+    explication: "In Scotland, the 31st of December (New Year\u2019s Eve) is called\
+      \ Hogmanay."
+    solution:
+    - r1
+    text: What does Hogmanay refer to?
+  1816118a254df28018e04bb2487e2482d1ff2f766da0c62d9f2924f3050039a8:
+    choices:
+      r0: "Peasants who had a small area of their lord\u2019s agricultural land"
+      r1: Soldiers who fought at the Battle of Trafalgar
+      r2: "Noblemen who formed part of the king\u2019s council of advisers"
+      r3: A group of skilled people from Holland who came to England during the Middle
+        Ages
+    explication: "Serfs were peasants who had a small area of their lord\u2019s land\
+      \ where they could grow food."
+    solution:
+    - r0
+    text: During the Middle Ages, who were the serfs?
+  1f298ffb219b86df43b260a88ff323b503f584d6b8d311b70834188343eb75db:
+    choices:
+      r0: 'True'
+      r2: 'False'
+    explication: This statement is True.
+    solution:
+    - r0
+    text: "Northern Ireland uses a system called \u2018individual registration\u2019\
+      \ and all those entitled to vote must complete their own registration form."
+  23ae65c0ee85df803eacabddae2d78ddda9622123abd00974d01759afa514982:
+    choices:
+      r0: The Swinging Sixties
+      r1: The Reformation
+      r2: The Suffragettes
+      r3: The Enlightenment
+    explication: The Reformation was a movement against the authority of the Pope
+      and the ideas and practices of the Roman Catholic Church.
+    solution:
+    - r1
+    text: What movement challenged the authority of the Pope?
+  2651704f1216549f454ca17eede62eec339c7e5dd95715bae719340a72a84331:
+    choices:
+      r0: An informal way of helping people to settle minor disputes without spending
+        a lot of time and money using a lawyer
+      r1: A procedure that helps people to make small home insurance claims in certain
+        circumstances
+    explication: The small claims procedure is an informal way of helping people to
+      settle minor disputes without spending a lot of time and money using a lawyer.
+    solution:
+    - r0
+    text: What is the small claims procedure?
+  52fd6601eda51ef8ff9c3bfdbbb276c7f11657afa0aaaf31a2b1580e5ea0483c:
+    choices:
+      r0: Health
+      r1: Education
+      r2: Defence
+      r3: Immigration
+    explication: Policy and laws governing defence, foreign affairs, immigration,
+      taxation and social security all remain under central UK government control.
+      However, many other public services, such as education, are controlled by the
+      devolved administrations.
+    solution:
+    - r2
+    - r3
+    text: Which two of the following policies are not controlled by the devolved administrations?
+  5d33a6e0a4ae3836383403c368d87b6439919b3bf29038bdbcad577f15524c47:
+    choices:
+      r0: King Henry V
+      r1: King Henry IV
+      r2: William the Conqueror
+      r3: Harold, the Saxon king of England
+    explication: "William\_the Conqueror sent people all over England to draw up lists\
+      \ of all the towns and villages. The people who lived there, who owned the land\
+      \ and what animals they owned were also listed. This was called the Domesday\
+      \ Book."
+    solution:
+    - r2
+    text: What English King introduced the Domesday Book?
+  625b99ca10def65fcbff3d34c8b0dd01f573d8f7473f248cf237db4c7d7d3f91:
+    choices:
+      r0: Free primary education in England, Wales and Scotland
+      r1: Free university fees in England, Wales, Scotland and Northern Ireland
+      r2: Free primary and secondary education in England, Wales and Scotland
+      r3: Free secondary education in England and Wales
+    explication: "Richard Austen Butler became a Conservative MP in 1923 and held\
+      \ several positions before becoming responsible for education in 1941. In this\
+      \ role, he oversaw the introduction of the Education Act 1944 (often called\
+      \ \u2018The Butler Act\u2019), which introduced free secondary education in\
+      \ England and Wales."
+    solution:
+    - r3
+    text: "What did \u2019the Butler Act\u2019\_introduce in 1944?"
+  69d08f2e9944420bf09a7b511e574732ec382eab1f2341b350df4ce50a57e999:
+    choices:
+      r0: One of the tribal leaders who fought against the Romans
+      r1: A British officer in charge of the British army at the Battle of Waterloo
+      r2: A British general who established the authority of the English Parliament
+      r3: A British officer in charge of the British fleet at the Battle of Trafalgar
+        against the Spanish fleet
+    explication: Admiral Nelson was in charge of the British fleet at the Battle of
+      Trafalgar against the Spanish fleet and was killed in the battle.
+    solution:
+    - r3
+    text: Who was Admiral Nelson?
+  6a99a2a66816a4e6272e1e9e42e0941095edf150fcb2cf6cb3a7166c6e59d6e4:
+    choices:
+      r0: Scotland
+      r1: Wales
+      r2: England
+      r3: Northern Ireland
+    explication: Lake District is in England.
+    solution:
+    - r2
+    text: Where is the Lake District National Park located?
+  7388f566122bdaa34e005fa13d1fb940e2c36ab21aff8469d1574548bb59e313:
+    choices:
+      r0: 'True'
+      r2: 'False'
+    explication: "False. You can contact MPs by letter or telephone at their constituency\
+      \ office, or at their office in the House of Commons. In addition, many MPs,\
+      \ Assembly members, MSPs and MEPs hold regular local \u2018surgeries\u2019,\
+      \ where constituents can go in person to talk about issues that are of concern\
+      \ to them."
+    solution:
+    - r2
+    text: MPs can only be contacted by post.
+  75ec1cede55312bc25db1ed157dd26c14d9d847694bd3d3415dd2c4bfffa84de:
+    choices:
+      r0: The daffodil
+      r1: The thistle
+      r2: The shamrock
+      r3: The rose
+    explication: The flower associated with Northern Ireland is the shamrock.
+    solution:
+    - r2
+    text: Which flower is associated with Northern Ireland?
+  81f0c637f2147690dd616c801f4a6d9f81396a623ed31a6dd63edd5046a5208a:
+    choices:
+      r0: The Hundred Years War
+      r1: The Boer War
+      r2: The First World War
+      r3: The Crimean War
+    explication: The Boer War.
+    solution:
+    - r1
+    text: Which of the following wars took place between 1899 and 1902 in South Africa?
+  8634d068123b0c237332e89529468ac8b37332d6821170cb5cc0c4bf99d8ceed:
+    choices:
+      r0: To buy food locally
+      r1: To volunteer in a community project at least once a year
+      r2: To look after yourself and your family
+      r3: To respect the rights of others, including their right to their own opinions
+    explication: 'If you wish to be a permanent resident or citizen of the UK, you
+      should: respect and obey the law, look after yourself and your family, respect
+      the rights of others, including their right to their own opinions, treat others
+      with fairness and look after the area in which you live and the environment.'
+    solution:
+    - r2
+    - r3
+    text: Which two responsibilities will you have as a British citizen?
+  8e862d023bbb4f573f38d3e8c6704b9c144d52279eb73f5862446625fd154287:
+    choices:
+      r0: 'True'
+      r1: 'False'
+    explication: This statement is true.
+    solution:
+    - r0
+    text: The last battle between Britain and France was the battle of Waterloo.
+  936baaf0501f9232a7bd3cb913a8950dc6743d934edd5d2930e838a244a3fff8:
+    choices:
+      r0: The Radar
+      r1: The Steam Power
+      r2: The Jet Engine
+      r3: The Turing Machine
+    explication: The Industrial Revolution was the rapid development of industry in
+      Britain in the 18th and 19th centuries. Britain was the first country to industrialise
+      on a large scale. It happened because of the development of machinery and the
+      use of steam power.
+    solution:
+    - r1
+    text: Which invention lead to the rapid development of the industry in Britain
+      during the 18th and 19th centuries?
+  ad2862dcb3d2c0319021d1e79de7c252d93219b0946052b1ff76a75d2738dec5:
+    choices:
+      r0: An economist
+      r1: A painter
+      r2: A nurse
+      r3: A poet
+    explication: Florence Nightingale was a nurse. She is often regarded as the founder
+      of modern nursing.
+    solution:
+    - r2
+    text: Who was Florence Nightingale?
+  afe8f7f986439bf90e0a92b3bf903dcc3afc4c90e1c780cac6e2fbe17452f3e6:
+    choices:
+      r0: The Crystal Palace
+      r1: Buckingham Palace
+      r2: Kensington Palace
+      r3: Apsley House
+    explication: In 1851, the Great Exhibition opened in Hyde Park in the Crystal
+      Palace, a huge building made of steel and glass. Exhibits ranged from huge machines
+      to handmade goods.
+    solution:
+    - r0
+    text: What building was constructed in Hyde Park to hold the Great Exhibition
+      of 1851?
+  b48e8b7d485e456196f8b508ea3e2979fb3a5d95ae3d910adb2b6f708c365ae3:
+    choices:
+      r0: 'True'
+      r2: 'False'
+    explication: This statement is false.
+    solution:
+    - r2
+    text: "\xA3100 is the highest value note\_in circulation\_in the UK."
+  b8db87c9dfe48347f1efdc47adae5d4466952347f792048e601c67e91f4ea072:
+    choices:
+      r0: Jane Austen
+      r1: Charles Dickens
+      r2: William Shakespeare
+      r3: Thomas Hardy
+    explication: William Shakespeare was born in Stratford-upon-Avon, England.
+    solution:
+    - r2
+    text: Who was born in Stratford-upon-Avon?
+  c059c87c3d7ba4055731bad61c27ec6f3ced56c77fd64a83e779066c729eae2c:
+    choices:
+      r0: Women were given the right to vote at the age of 18, the same as men.
+      r1: Women were given the right to vote at the age of 25.
+      r2: Women were given the right to vote at the age of 30.
+      r3: Women were given the right to vote at the age of 21, the same as men.
+    explication: Women were given the right to vote at the age of 21, the same as
+      men.
+    solution:
+    - r3
+    text: "Why is 1928 an important year in women\u2019s voting history?"
+  ca5f2ea637883700b34115271a1dd1d709a73590010eb7fb7101e172d39835e4:
+    choices:
+      r0: Cork
+      r1: Edinburgh
+      r2: Belfast
+      r3: Dublin
+    explication: The capital city of Northern Ireland is Belfast.
+    solution:
+    - r2
+    text: What is the capital city of Northern Ireland?
+  dec844fd5375694b8761d68a1e0ce7cd78ad6aab5ac3cfd12b30872d0d11d2d2:
+    choices:
+      r0: Abolishing a number of taxes on imported goods
+      r1: Abolishing the exportation of local produce
+      r2: Preventing the importation of cheap raw materials
+      r3: Preventing the importation of cheap grain
+    explication: During Victorian times, the government began to promote policies
+      of free trade, abolishing a number of taxes on imported goods. One example of
+      this was the repealing of the Corn Laws in 1846. These had prevented the import
+      of cheap grain. The reforms helped the development of the British industry,
+      because raw materials could now be imported cheaply.
+    solution:
+    - r0
+    text: How did the Government promote policies of free trade during the Victorian
+      Age?

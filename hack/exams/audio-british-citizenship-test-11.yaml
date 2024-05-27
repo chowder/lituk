@@ -1,0 +1,270 @@
+questions:
+  06068070a20a7f077164e9e228a987733fe197b3d5e566c149fb68c391713687:
+    choices:
+      r0: 'True'
+      r1: 'False'
+    explication: This statement is true.
+    solution:
+    - r0
+    text: By law, radio and television coverage of the political parties must be balanced
+      and so equal time has to be given to rival viewpoints.
+  290daf8c190d349ef9ba22c65e6f88f29bb694a4d7f514df91fb00c3109dc165:
+    choices:
+      r0: Robert Adam
+      r1: Sir Christopher Wren
+      r2: Sir Norman Foster
+      r3: Dame Zaha Hadid
+    explication: "In 1666, a great fire destroyed much of the city, including many\
+      \ churches and St Paul\u2019s Cathedral. London was rebuilt with a new St Paul\\\
+      \\\\\\\\\\\\'s, which was designed by a famous architect, Sir Christopher Wren."
+    solution:
+    - r1
+    text: "Who was the architect that rebuilt Saint Paul\u2019s cathedral after the\
+      \ Great Fire in 1666?"
+  2be5345aae529ae05c530799510a040432a5fc70838c6d1b33f73d6bb5558f94:
+    choices:
+      r0: 'True'
+      r2: 'False'
+    explication: False. The Northern Ireland Assembly has been suspended on a few
+      occasions.
+    solution:
+    - r2
+    text: The UK government has never suspended the Northern Ireland Assembly.
+  3120a831f888961d2dc8a1510f24128a3fd9772a7b6d80987d0ce133c15da800:
+    choices:
+      r0: Write a complaint letter to the House of Commons
+      r1: Go to the Police station directly
+      r2: Write to the Chief Constable of the police force involved
+      r3: Write to your MP
+    explication: 'Anyone can make a complaint about the police by going to a police
+      station and writing to the Chief Constable of the police force involved. Complaints
+      can also be made to an independent body: the Independent Police Complaints Commission
+      in England and Wales, the Police Complaints Commissioner for Scotland or the
+      Police Ombudsman for Northern Ireland.'
+    solution:
+    - r1
+    - r2
+    text: What should you do to make a complaint about the police (choose two answers)?
+  3685638b22c5bf054795b17f14441e4da41632e1c5c313b898dd8f3fc72148fb:
+    choices:
+      r0: The Festival of Lights
+      r1: Ash Wednesday
+      r2: Good Friday
+      r3: Easter Monday
+    explication: Diwali is often called the Festival of Lights.
+    solution:
+    - r0
+    text: What other name is given to Diwali?
+  3a82d9741970f87662099eb8c5005b8b7be2224d9c5aac2cf5459718e375f3ee:
+    choices:
+      r0: A period of total peace in England
+      r1: A period when new ideas about politics, philosophy and science were developed
+      r2: A period when England became the largest empire the world had ever seen
+      r3: A period of economic recovery after the Second World War
+    explication: The Enlightenment was a period during the 18th century when new ideas
+      about politics, philosophy and science were developed.
+    solution:
+    - r1
+    text: What is the Enlightenment?
+  407000ce146b468cc137f5b728a19d457fea46553334d8b7b6eba09abce4f2a1:
+    choices:
+      r0: She fought for the right to vote for women
+      r1: She was the first woman Prime Minister of the UK
+      r2: "She set up the women\u2019s Franchise League"
+      r3: She was the founder of modern nursing
+    explication: Margaret Thatcher was the first woman Prime Minister of the UK.
+    solution:
+    - r1
+    text: What was Margaret Thatcher famous for?
+  4652c3722e7d364d5bca4a1e20ef9b64df9507ae042337f8a1f503787b250700:
+    choices:
+      r0: 'Yes'
+      r2: 'No'
+    explication: British overseas territories, such as St Helena and the Falkland
+      Islands are linked to the UK but are not part of it.
+    solution:
+    - r2
+    text: Is St Helena part of the UK?
+  5d183c33ecc2d97341f78d8e6b5e1826ef567726cacda6f7d8160a199205d299:
+    choices:
+      r0: Turkey
+      r1: Russia
+      r2: France
+      r3: Germany
+    explication: From 1853 to 1856, Britain fought with Turkey and France against
+      Russia in the Crimean War.
+    solution:
+    - r1
+    text: Who did Britain fight against in the Crimean War?
+  60967f9ff59ec332dacb3b764da561cc24b6e0585011671c899642711128d3f9:
+    choices:
+      r0: France
+      r1: Spain
+      r2: Italy
+      r3: South America
+    explication: In 1588 the English defeated the Spanish Armada (a large fleet of
+      ships), which had been sent by Spain to conquer England and restore Catholicism.
+    solution:
+    - r1
+    text: Where did the Spanish Armada come from?
+  6643777e6a400acc7563e65933d016911084815089c9243395899d7c3c0bdfae:
+    choices:
+      r0: After the Viking invasion
+      r1: After the Norman conquest
+      r2: After the last Roman invasion
+      r3: After the Anglo-Saxon invasion
+    explication: "William the conqueror sent people all over England to draw up lists\
+      \ of all the towns and villages. The people who lived there, who owned the land\
+      \ and what animals they owned were also listed. This was called the Domesday\
+      \ Book, which gives a picture of society in England just after the Norman\_\
+      Conquest."
+    solution:
+    - r1
+    text: When was the Domesday Book written?
+  6bd50f69b54c5648edce5eca96a29496651e8558bbb57914f718521a9b374501:
+    choices:
+      r0: Rose
+      r1: Daffodil
+      r2: Thistle
+      r3: Shamrock
+    explication: "William Wordsworth wrote \u2018The Daffodils\u2019."
+    solution:
+    - r1
+    text: What flower did William Wordsworth write about?
+  6fdb7bcb9b1bbe71681e898e4164d572ab426e56a6bd9c33257ce1eb19decd73:
+    choices:
+      r0: A suffragette
+      r1: A nurse
+      r2: A doctor
+      r3: A scientist
+    explication: "Emmeline Pankhurst was born in Manchester in 1858. She set up the\
+      \ women\u2019s Franchise League in 1889, which fought to get the vote in local\
+      \ elections for married women. In 1903 she helped found the Women\u2019s Social\
+      \ and Political Union (WSPU). This was the first group whose members were called\
+      \ \u2018suffragettes\u2019."
+    solution:
+    - r0
+    text: Who was Emmeline Pankhurst?
+  8064cd20a62218088a043548a52b80b397ce96502605f6391b537c72a267b1eb:
+    choices:
+      r0: The Stone Age
+      r1: The Bronze Age
+      r2: The Iron Age
+      r3: The Middle Ages
+    explication: The people of the Iron Age made the first coins to be minted in Britain.
+    solution:
+    - r2
+    text: When were the first coins in Britain made?
+  82b104683d8f426e169cfe450e9dc051995b031c214f5a0ecd6d1550339fe231:
+    choices:
+      r0: Latin
+      r1: Anglo-Saxon
+      r2: Proto-Celtic
+      r3: Norman French
+    explication: After the Norman Conquest, the king and his noblemen had spoken Norman
+      French and the peasants had continued to speak Anglo-Saxon. Gradually these
+      two languages combined to become one English language.
+    solution:
+    - r1
+    - r3
+    text: Which two languages combined to become one English language?
+  8ce8de501c41665e094912dc3809b40efec0d3bd1d514c03a23098bdb2d381a3:
+    choices:
+      r0: Immigration
+      r1: Education
+      r2: Agriculture
+      r3: Defence
+    explication: 'The Northern Ireland Assembly can make decisions on issues such
+      as: education, agriculture, the environment health and social services, but
+      it cannot make decisions on immigration or defence issues.'
+    solution:
+    - r0
+    - r3
+    text: The Northern Ireland Assembly cannot make decisions on which two of the
+      following issues?
+  949cbbbc7e51ec8fdbe4192f8e5cd852b3a71b3c75be7d6dbf2f1c988b29e8e6:
+    choices:
+      r0: '17'
+      r1: '18'
+      r2: '19'
+      r3: '20'
+    explication: 'It is a criminal offence to sell alcohol to anyone who is under
+      18 or to buy alcohol for people who are under the age of 18. (There is one exception:
+      people aged 16 or over can drink alcohol with a meal in a hotel or restaurant).'
+    solution:
+    - r1
+    text: How old do you have to be to buy alcohol in the UK?
+  a04731e0f3a2a5995867374dea54b81e575ed0c0d0c0a79c758d34a893f26453:
+    choices:
+      r0: NSPCC
+      r1: Shelter
+      r2: Friends of the Earth
+      r3: Crisis
+    explication: Friends of the Earth is an environmental charity.
+    solution:
+    - r2
+    text: Which of the following charities helps the environment?
+  a0c9d6c3976568d7fc63a9e2a428405c372b915a9d1def6404bcc4d5ce3834fd:
+    choices:
+      r0: Euro
+      r1: Pound Sterling
+      r2: Peso
+      r3: Dollar
+    explication: "The currency in the UK is the pound sterling (symbol \xA3)."
+    solution:
+    - r1
+    text: What is the name of the UK currency?
+  ad7c30b58aec1c9f4c22f4eeb3acb6d57b4f572fa0b363abec311e8f0eb42177:
+    choices:
+      r0: Dumfries
+      r1: Cenotaph
+      r2: Royal Crescent
+      r3: The White Tower
+    explication: The Cenotaph is a war memorial located in Whitehall.
+    solution:
+    - r1
+    text: What is the name of the War Memorial located in Whitehall?
+  c84e6657be7d859efca95b77157e16a2a57df7b88e11b0beb4945fc5e306846f:
+    choices:
+      r0: 17th April
+      r1: 31st December
+      r2: 1st March
+      r3: 30th November
+    explication: "St Andrew\u2019s day, patron of Scotland, is celebrated on the 30th\
+      \ of November."
+    solution:
+    - r3
+    text: "When is St Andrew\u2019s day celebrated?"
+  da43123c5b7135dfc410da9c7966afa39a3176b5fbe63f48e5e183d075489ada:
+    choices:
+      r0: Docklands
+      r1: "London\u2019s East End"
+      r2: "London\u2019s West End"
+      r3: "London\u2019s South End"
+    explication: "London\u2019s West End, also known as \u2018Theatreland\u2019, is\
+      \ particularly well known for its theatres."
+    solution:
+    - r2
+    text: Where is Theatreland?
+  f386aedd6733259319d6aeeac37ba677df6da4b72016dbfd25c5e23da09d334d:
+    choices:
+      r0: A Catholic church
+      r1: A Protestant church
+    explication: In 1560, the predominantly Protestant Scottish Parliament abolished
+      the authority of the Pope in Scotland and Roman Catholic religious services
+      became illegal. A Protestant Church of Scotland with an elected leadership was
+      established but, unlike in England, this was not a state Church.
+    solution:
+    - r1
+    text: What kind of church did Scotland establish in 1560?
+  fdf90a55c71632ebdbd3f0e755b93ae8555840a788a7e14f895b92261ce5c8dc:
+    choices:
+      r0: The Battle of Britain
+      r1: The Battle of Worcester
+      r2: The Battle of Dunbar
+      r3: The Battle of Marston Moor
+    explication: The correct answer is the Battle of Britain.
+    solution:
+    - r0
+    text: Which of the following was a crucial aerial battle fought between Germany
+      and Britain during WWII?

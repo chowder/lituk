@@ -1,0 +1,270 @@
+questions:
+  1739bbe84b77659e9d0352c4d08deb9159f1f0dbab3add4aabcd9f2260098e7d:
+    choices:
+      r0: 'True'
+      r1: 'False'
+    explication: False. There is no established Church in Wales or Northern Ireland.
+    solution:
+    - r1
+    text: Northern Ireland has its own established church.
+  2027234e61255851d809f8c0915c10cfd3cb0c19b4748b8e4f39b2d9b3836aff:
+    choices:
+      r0: The Conservative Party
+      r1: The Green Party
+      r2: The Labour Party
+      r3: The Liberal Democrats Party
+    explication: In May 2010 the Conservative and Liberal Democrat parties formed
+      a coalition and the leader of the Conservative Party, David Cameron, became
+      Prime Minister.
+    solution:
+    - r0
+    - r3
+    text: Which two political parties formed a coalition in 2010?
+  25c7499fb91d309585eec27b9841363f7c7cfb87834a7ce74d189019324830e7:
+    choices:
+      r0: England
+      r1: Northern Ireland
+      r2: Scotland
+      r3: Wales
+    explication: Swansea it is located in Wales.
+    solution:
+    - r3
+    text: Where is Swansea located?
+  2b227c2cd96fefd4b5e397048dea9a3d65df14fe7f81773f773907573c76529a:
+    choices:
+      r0: "Father\u2019s Day"
+      r1: Christmas Day
+      r2: New Year
+      r3: Boxing Day
+    explication: Christmas Day, 25th of December, celebrates the birth of Jesus Christ.
+    solution:
+    - r1
+    text: On what day is the birth of Jesus Christ celebrated?
+  31e8228f4e620e7df9e8d2f677696093a5dcc7135d2560893751dad96b7d6844:
+    choices:
+      r0: The Sheriff Court
+      r1: "The Magistrates\u2019 Court"
+      r2: The Crown Court
+      r3: The Justice of the Peace Court
+    explication: In Scotland, minor criminal offences go to a Justice of the Peace
+      Court.
+    solution:
+    - r3
+    text: Which court deals with minor criminal offences in Scotland?
+  35c046dd5d7d1acdba7faea15b3261af3a157b1b1d271bbce027677bd72d54f5:
+    choices:
+      r0: Queen Victoria
+      r1: Henry VIII
+      r2: Elizabeth I
+      r3: Charles II
+    explication: "In Elizabeth I\u2019s time, English settlers first began to colonise\
+      \ the eastern coast of America."
+    solution:
+    - r2
+    text: Who was reigning in England when English settlers first began to colonise
+      the eastern coast of America?
+  3d4b48e57015e2094f3217c6683caf1d0b08e145bd85b46559eeaa32023ca47a:
+    choices:
+      r0: James I
+      r1: Charles II
+      r2: James VII
+      r3: Charles I
+    explication: The correct answer is Charles I.
+    solution:
+    - r3
+    text: Which king was executed in 1649?
+  3fec1c95e4f82fae419ced84164b6aeffa585c5dac2bca9306773b300b3d0717:
+    choices:
+      r0: Wales
+      r1: England
+      r2: Northern Ireland
+      r3: Scotland
+    explication: Haggis is a traditional food from Scotland.
+    solution:
+    - r3
+    text: Haggis is a traditional food from which area?
+  42f92711f92a1c91925cf8997b6267f1e3926152c37a982331853dc69cac4811:
+    choices:
+      r0: Wales
+      r1: Northern Ireland
+      r2: England
+      r3: Scotland
+    explication: "\u2018Great Britain\u2019 refers only to England, Scotland and Wales,\
+      \ not to Northern Ireland."
+    solution:
+    - r0
+    - r2
+    - r3
+    text: Which three territories form Great Britain?
+  4fe4f05e0232eb22eca3a1b611c871e0d3f090cb307812435d656354d2aa9b25:
+    choices:
+      r0: Dame Kelly Holmes
+      r1: Baroness Tanni Grey-Thompson
+      r2: Jayne Torvill
+      r3: Ellie Simmonds
+    explication: Baroness Tanni Grey-Thompson and Ellie Simmonds are the correct answers.
+    solution:
+    - r1
+    - r3
+    text: Which two of the following are famous British Paralympians?
+  54f7e63ebcfdc8a1cf8997929027b2de0b899213c25897184c60816b2e8f3596:
+    choices:
+      r0: To respect and obey the law
+      r1: To walk your dog only during the day
+      r2: To go to church on Sunday
+      r3: To look after yourself and your family
+    explication: 'If you wish to be a permanent resident or citizen of the UK, you
+      should: respect and obey the law, look after yourself and your family, respect
+      the rights of others, including their right to their own opinions, treat others
+      with fairness and look after the area in which you live and the environment.'
+    solution:
+    - r0
+    - r3
+    text: As a British citizen what are your responsibilities (choose two answers)?
+  5aa3c2d0725f9b3fb3efdc99acae982bae4d1f64ccb8d75b21d654224dd37e55:
+    choices:
+      r0: The people of the Stone Age
+      r1: The Anglo-saxons
+      r2: The people of the Iron Age
+      r3: The Romans
+    explication: The people of the Iron Age made the first coins to be minted in Britain,
+      some inscribed with the names of Iron Age kings. This marks the beginnings of
+      British history.
+    solution:
+    - r2
+    text: Who made the first coins to be minted in Britain?
+  61b306d099c7fc24971d14fa6e9c0eb1fdb17a46670082c8a21aa8e358d933f2:
+    choices:
+      r0: 'True'
+      r2: 'False'
+    explication: "False. Northern Ireland uses a system called \u2018individual registration\u2019\
+      \ and all those entitled to vote must complete their own registration form."
+    solution:
+    - r2
+    text: "Scotland and Wales use a system called \u2018individual registration\u2019\
+      \ where all those entitled to vote must complete their own registration form."
+  84805c9a6149fd96dcfa6b6edf8a48ad0c79e7ae9bc785411f55f71fc89f4f88:
+    choices:
+      r0: Giant greenhouses
+      r1: Land formations of columns made from volcanic lava
+      r2: Areas of protected countryside
+      r3: Medieval buildings
+    explication: National Parks are areas of protected countryside that everyone can
+      visit, and where people live, work and look after the landscape.
+    solution:
+    - r2
+    text: There are 15 national parks in England, Wales and Scotland. What are national
+      parks?
+  9255bf7217c696700f155c7c8a844cd35eafafe8e3a42123e32a4b2e3025f30a:
+    choices:
+      r0: Elizabeth I was a Protestant and she succeeded in finding a balance between
+        the views of the Catholics and the more extreme Protestants.
+      r1: Elizabeth I was a Catholic and she succeeded in finding a balance between
+        the views of the Catholics and the more extreme Protestants.
+    explication: Elizabeth I was a Protestant and she succeeded in finding a balance
+      between the views of the Catholics and the more extreme Protestants.
+    solution:
+    - r0
+    text: 'Which of the following statements is true:'
+  9dbf83d2ce2f142ba636eeb29cac1ebd4460e817922a93aaa031e981d9f1fe53:
+    choices:
+      r0: William the Conqueror
+      r1: Queen Victoria
+      r2: Queen Elizabeth I
+      r3: Oliver Cromwell
+    explication: The correct answer is William the Conqueror.
+    solution:
+    - r0
+    text: Who built the Tower of London?
+  b32b330b9d10edda38681068ac4359618be0d2f0a9ef9878d29ac8cadaf2f800:
+    choices:
+      r0: A document with your address on it, such as a tenancy agreement
+      r1: Documents that prove that you have permission to work in the UK
+      r2: A contract from your employer
+      r3: Documents that prove your identity
+    explication: To apply for a National Insurance number you need documents that
+      prove your identity and that you have permission to work in the UK.
+    solution:
+    - r1
+    - r3
+    text: Which two documents do you need to apply for a National Insurance number?
+  c9844e10cb7e94edd062067e5cff6924579cd26a809a28815d20833d464a1355:
+    choices:
+      r0: Measles
+      r1: Leprosy
+      r2: Smallpox
+      r3: The Black Death
+    explication: In 1348, a disease, probably a form of plague, came to Britain. This
+      was known as the Black Death. One third of the population of England died and
+      a similar proportion in Scotland and Wales.
+    solution:
+    - r3
+    text: In 1348, one third of the population in England, Wales and Scotland died
+      as a result of which disease?
+  d59126ffa418d62e4bd831389145b832c7ba77c7004e3a8ad95fc6158c560985:
+    choices:
+      r0: Every day
+      r1: Every week
+      r2: Every two weeks
+      r3: Once a month
+    explication: "Prime Minister\u2019s Questions takes place every week while Parliament\
+      \ is sitting."
+    solution:
+    - r1
+    text: "How often are \u2019Prime Minister\u2019s Questions\u2019 held in the parliament?"
+  d91847f11fc2e3525882fe000dc190d30c485381754ca3a7632b2c12d1fa0bdf:
+    choices:
+      r0: The Magna Carta
+      r1: The Domesday Book
+      r2: The Bayeux Tapestry
+      r3: The Canterbury Tales
+    explication: The Domesday Book and the Bayeux Tapestry.
+    solution:
+    - r1
+    - r2
+    text: Which two of the following records give us information about England during
+      the reign of William I?
+  effc16dab9ef8c3b782fb1a780f08570c872a685abb13bd34183b5e0775ff9a0:
+    choices:
+      r0: Due to the outbreak of the First World War
+      r1: Due to the outbreak of the Second World War
+      r2: Because there was not a king on the British throne
+      r3: Due to the outbreak of the Black Death
+    explication: The outbreak of the First World War led the British government to
+      postpone any changes in Ireland.
+    solution:
+    - r0
+    text: "In 1913, the British government promised \u2018Home Rule\u2019 for Ireland,\
+      \ why were changes in Ireland delayed until 1921?"
+  f07301dce934026aed7ae53628c8160fe4fa69d9a796f84c481a78fe28dad86b:
+    choices:
+      r0: Manchester
+      r1: Oldham
+      r2: Stratford-upon-Avon
+      r3: Lincolnshire
+    explication: Shakespeare was born in Stratford-upon-Avon, England.
+    solution:
+    - r2
+    text: Where was William Shakespeare born?
+  f6b0a050ff3f8467ae1e87048eca723af67f09d516d01d2d333d68fd48abfceb:
+    choices:
+      r0: Henry VIII
+      r1: Oliver Cromwell
+      r2: Winston Churchill
+      r3: William of Orange
+    explication: The correct answer is Henry VIII.
+    solution:
+    - r0
+    text: Who established the Church of England?
+  fa2d413fb6ae954ebd8425df0f33c7d3da6e1b3cc3acecacbb672672a1e7dd5d:
+    choices:
+      r0: A battle in the sea
+      r1: An aerial battle
+      r2: A battle in the mountains
+      r3: A battle without rifles
+    explication: "\u2018The Battle of Britain\u2019 was a crucial aerial battle fought\
+      \ between Germany and Britain in the summer of 1940."
+    solution:
+    - r1
+    text: "What sort of battle was the \u2019Battle of Britain\u2019, fought between\
+      \ Germany and Britain in the summer of 1940?"

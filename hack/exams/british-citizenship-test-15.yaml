@@ -1,0 +1,284 @@
+questions:
+  09eca7b7a5d2583e3c56a5cf004f942e5142d22ee816d1a8c5860bd8956a0ee2:
+    choices:
+      r0: Up to 3 specially trained magistrates
+      r1: A District Judge
+      r2: A sheriff
+      r3: Up to 5 specially trained magistrates
+    explication: In England, Wales and Northern Ireland, if an accused person is aged
+      10 to 17, the case is normally heard in a Youth Court in front of up to three
+      specially trained magistrates or a District Judge.
+    solution:
+    - r0
+    - r1
+    text: In England, Wales and Northern Ireland Youth Court cases are normally heard
+      by (choose TWO answers)?
+  2693b44947db7dbe222f797038052c19dee94f1262abb0c80158852ad1249e9c:
+    choices:
+      r0: Hindu
+      r1: Catholic
+      r2: Sikh
+      r3: Protestant
+    explication: The Puritans were a group of Protestants who advocated strict and
+      simple religious doctrine and worship.
+    solution:
+    - r3
+    text: What was the religion of the Puritans?
+  2799a6293a175c1484557899589bbb069810cb53725eddf068830bcf8a577203:
+    choices:
+      r0: A soap opera
+      r1: A silent movie
+      r2: An animated film
+      r3: An action film
+    explication: Nick Park won four Oscars for his animated films, including three
+      for films featuring Wallace and Gromit.
+    solution:
+    - r2
+    text: What kind of genre was the film Wallace and Gromit created by Nick Park?
+  49a978ba175a9f83559c1095d6bd1dcd29f786ecf365b4fb24206992c5d69cd3:
+    choices:
+      r0: She did not win any medals
+      r1: Silver
+      r2: Gold
+      r3: Bronze
+    explication: Born in Manchester, Mary Peters moved to Northern Ireland as a child.
+      She was a talented athlete who won an Olympic gold medal in the pentathlon in
+      1972.
+    solution:
+    - r2
+    text: What medal did Mary Peters win in the 1972 Olympics?
+  505c2ee0a69c5d5d282262b54fd63d7710bedaa554fc158f39607f0869a866de:
+    choices:
+      r0: North African
+      r1: Asian
+      r2: North American
+      r3: South African
+    explication: In 1776, 13 North American colonies declared their independence,
+      stating that people had a right to establish their own governments.
+    solution:
+    - r2
+    text: "In 1776, which British colonies declared their independence because they\
+      \ demanded that there should be \u2018no taxation without representation\u2018\
+      ."
+  5466be7b687fb79c7517acafeb3f307644fbf2ac778b72491dc0904c86c5ec92:
+    choices:
+      r0: The jet engine
+      r1: The television
+      r2: The Turing machine
+      r3: The ball pen
+    explication: A Turing machine is a theoretical mathematical device invented by
+      Alan Turing (1912-54), a British mathematician, in the 1930s.
+    solution:
+    - r2
+    text: What was invented by Alan Turing in the 1930s?
+  6ce5bd276edfc6711102c377254607d7aeec2eef59d527a2dbab8f38230a548c:
+    choices:
+      r0: Auld Lang Syne
+      r1: The British Anthem
+      r2: Jingle Bells
+      r3: White Christmas
+    explication: The song Auld Lang Syne, which is sung by people in the UK and other
+      countries when they are celebrating the New Year (or Hogmanay as it is called
+      in Scotland).
+    solution:
+    - r0
+    text: What song is sung by people in the UK and other countries when they are
+      celebrating the New Year?
+  75f3809a482ec1868f5af38121b9d0eeaa7c186412e3b1465e9dcd5163efaf26:
+    choices:
+      r0: 'True'
+      r2: 'False'
+    explication: "True. Anyone who is violent towards their partner \u2013 whether\
+      \ they are a man or a woman, married or living together \u2013 can be prosecuted."
+    solution:
+    - r0
+    text: "Anyone who is violent towards their partner \u2013 whether they are a man\
+      \ or a woman, married or living together \u2013 can be prosecuted."
+  839ed73cc3e3dbd4c3c0298f53cb721e2e7794971651378ea554cf203613b8a3:
+    choices:
+      r0: '1835'
+      r1: '1823'
+      r2: '1807'
+      r3: '1833'
+    explication: In 1833 the Emancipation Act abolished slavery throughout the British
+      Empire.
+    solution:
+    - r3
+    text: When did the Emancipation Act abolish slavery throughout the British Empire?
+  8d39d7bab6a22401097cd629c55b99069565918443ebd9cba4c888d7032cc5d1:
+    choices:
+      r0: Harry Potter
+      r1: Spider-man
+      r2: The Lord of the Rings
+      r3: Indiana Jones
+    explication: Some of the most commercially successful films of all time, including
+      the two highest-grossing film franchises (Harry Potter and James Bond), have
+      been produced in the UK.
+    solution:
+    - r0
+    text: Which film produced in the UK was one of the most commercially successful
+      films of all time and one of the highest-grossing film franchises?
+  94048cfdaa349172d046d84580e65052cbec4c092229becc92a1402387fba5e8:
+    choices:
+      r0: 16 years old
+      r1: 17 years old
+      r2: 18 years old
+      r3: 21 years old
+    explication: In the UK, you must be at least 17 years to drive a car or motorcycle
+      and you must have a driving licence to drive on public roads.
+    solution:
+    - r1
+    text: What is the minimum age required to drive a motorcycle?
+  96db9b5c1df3ea596a69b683ead4874dd592bc2371749c2b6d8aa53e52ca22ba:
+    choices:
+      r0: 'Yes'
+      r2: 'No'
+    explication: True. Court orders can be obtained to protect a person from being
+      forced into a marriage, or to protect a person in a forced marriage.
+    solution:
+    - r0
+    text: Can court orders be obtained to protect a person from being forced into
+      a marriage?
+  97fb7eaff8ae52974897efa843c1d2a45802d175e3d3114e37b6b0010409ca11:
+    choices:
+      r0: At 12.00 pm on 11th November 1914
+      r1: At 12.00 pm on 11th November 1918
+      r2: At 11.00 am on 11th November 1914
+      r3: At 11.00 am on 11th November 1918
+    explication: The First World War ended at 11.00 am on 11th November 1918 with
+      victory for Britain and its allies.
+    solution:
+    - r3
+    text: When did the First World War end?
+  a9e672654c47e249df90546e30dec9fe3a45a4f2c77dfa2b911fa074cd6943d5:
+    choices:
+      r0: 10,000 years ago
+      r1: 6,000 years ago
+      r2: 15,000 years ago
+      r3: 2,000 years ago
+    explication: The first farmers arrived in Britain 6,000 years ago.
+    solution:
+    - r1
+    text: When did the first farmers come to Britain?
+  b8470441f08cf8ff07fa663933302c6ea2d58f9884164bd0fc35e39ebfb93657:
+    choices:
+      r0: Fenians
+      r1: Quakers
+      r2: Highlanders
+      r3: Suffragettes
+    explication: The Irish Nationalist movement had grown strongly through the 19th
+      century. Some, such as the Fenians, favoured complete independence.
+    solution:
+    - r0
+    text: What is the name of Irish people who favoured complete independence from
+      the UK in the 19th century?
+  bf9769a2cbe6c79a29949410197954d179035f416e4920161cd000bfab3b164f:
+    choices:
+      r0: The Rolling Stones
+      r1: The Beatles
+      r2: ABBA
+      r3: Radiohead
+    explication: "The decade of the 1960s was a period of significant social change.\
+      \ It was known as the \u2018swinging sixties\u2019. There was growth in British\
+      \ fashion, cinema and popular music. Two well-known pop music groups at the\
+      \ time were The Beatles and The Rolling Stones."
+    solution:
+    - r0
+    - r1
+    text: Which two British pop music groups were famous during the Swinging Sixties?
+  c098336ae5f4c66b4dd9b862b773c5a0555d1f2c08215a86476a5a76ba4c2801:
+    choices:
+      r0: Vindolanda
+      r1: Maiden Castle
+      r2: Housesteads
+      r3: Grimsby
+    explication: "Parts of Hadrian\u2018s Wall, include the forts of Housesteads and\
+      \ Vindolanda."
+    solution:
+    - r0
+    - r2
+    text: "Which two of these forts were part of Hadrian\u2018s wall?"
+  c0b424030f7ce09093765087e1fce2ae60974791a1f087ca4a9c1998f52a78b8:
+    choices:
+      r0: The Domesday Book
+      r1: The Book of Common Prayer
+      r2: The Canterbury Tales
+      r3: The Carta Magna
+    explication: William sent people all over England to draw up lists of all the
+      towns and villages. The people who lived there, who owned the land and what
+      animals they owned were also listed. This was called the Domesday Book. It still
+      exists today and gives a picture of society in England just after the Norman
+      Conquest.
+    solution:
+    - r0
+    text: Which of the following tells us about how people lived in England just after
+      the Norman Conquest?
+  c6b6cf8902d7f61b94f949f3f2594f88a9472ae5c0bcf6c0ed0cc83e6aef1540:
+    choices:
+      r0: The Chancellor of the Exchequer
+      r1: The Foreign Secretary
+      r2: The Speaker
+      r3: The Home Secretary
+    explication: The Home Secretary is responsible for crime, policing and immigration.
+    solution:
+    - r3
+    text: Who is responsible for crime, policing and immigration?
+  cdf5606f7c457754752c61bb63c9b08e2e7771890a3d44b7e78a8ca549643231:
+    choices:
+      r0: Alexander Fleming
+      r1: Alan Turing
+      r2: Ernest Rutherford
+      r3: Sir Peter Mansfield
+    explication: "Scientists led by Ernest Rutherford, working at Manchester and then\
+      \ Cambridge University, were the first to \u2018split the atom\u2018 and took\
+      \ part in the Manhattan Project in the United States, which developed the atomic\
+      \ bomb."
+    solution:
+    - r2
+    text: "Who led a team of scientists to \u2018split the atom\u2018 for the first\
+      \ time?"
+  d6582b10a5814b4d183a8b42dbae85f3c733cecc7490139ce1bc51c3285b0ab9:
+    choices:
+      r0: Welsh
+      r1: Gaelic
+      r2: Norman French
+      r3: Anglo-Saxon
+    explication: The Middle Ages saw the development of a national culture and identity.
+      After the Norman Conquest, the king and his noblemen had spoken Norman French
+      and the peasants had continued to speak Anglo-Saxon.
+    solution:
+    - r2
+    - r3
+    text: Which two languages were used across England during the Middle Ages?
+  dc3e6a23c9ddc7af39d38ede43668ba13bf1a9f112e31d2632fe3060943aecc0:
+    choices:
+      r0: The House of York and the House of Lancaster
+      r1: The Anglo-Saxons and the Vikings
+      r2: The Cavaliers and the Roundheads
+      r3: The House of Fraser and the House of Stuart
+    explication: The Civil war between the king and Parliament began in 1642. The
+      country split into those who supported the king (the Cavaliers) and those who
+      supported Parliament (the Roundheads).
+    solution:
+    - r2
+    text: Who fought in the English Civil war of 1642?
+  ebbaa7e4375ed3b0e6f665a5e80de32914cb870325ff3138dff95a482f1ca3aa:
+    choices:
+      r0: 'True'
+      r1: 'False'
+    explication: False. The members of the House of Lords, known as peers, are not
+      elected by the people.
+    solution:
+    - r1
+    text: The members of the House of Lords, known as peers, are elected by the people.
+  f52353397e65c7d8fad9060cfbe759a1ad36c4aa318dbec119ae9737fcd46bc5:
+    choices:
+      r0: When Elizabeth I died without any successor
+      r1: When Charles I was executed
+      r2: "When the Carta Magna restricted the king\u2019s power"
+      r3: When kind Harold died after the Battle of Hastings
+    explication: When Charles I was executed, England declared itself a republic,
+      called the Commonwealth. It no longer had a monarch.
+    solution:
+    - r1
+    text: When was England ruled by a republic and not by a monarch?
